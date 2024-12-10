@@ -1,0 +1,4286 @@
+[
+  {
+    "company_link": "/company/coneixement",
+    "company_name": "Coneixement INDIA",
+    "company_logo": "https://logo.clearbit.com/entechonline.com",
+    "company_description": "Explore Your Passion"
+  },
+  {
+    "company_link": "/company/vdojar",
+    "company_name": "VDO JAR",
+    "company_logo": "https://www.google.com/s2/favicons?domain=https://vdojar.com&sz=128",
+    "company_description": "Inviting independent filmmakers and the audience who has immense passion for Cinema!! Download VDOJar today!"
+  },
+  {
+    "company_link": "/company/liinks",
+    "company_name": "Liinks",
+    "company_logo": "https://logo.clearbit.com/liinks.co",
+    "company_description": "Use Liinks to gather your socials, music, videos and more in a beautiful link-in-bio page that matches your style."
+  },
+  {
+    "company_link": "/company/codeegnan",
+    "company_name": "Codegnan",
+    "company_logo": "https://logo.clearbit.com/codegnan.com",
+    "company_description": "IT Training Institute"
+  },
+  {
+    "company_link": "/company/zozzah",
+    "company_name": "Zozzah",
+    "company_logo": "https://www.google.com/s2/favicons?domain=zozzah.com&sz=128",
+    "company_description": "Innovation and Technology company"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "HeyCoach",
+    "company_logo": "https://logo.clearbit.com/heycoach.in",
+    "company_description": "We offer top-notch Tech Interview Coaching and Mentorship Programs tailored to Software Engineers."
+  },
+  {
+    "company_link": "/company/theinternetfolk",
+    "company_name": "The Internet Folks",
+    "company_logo": "https://logo.clearbit.com/theinternetfolks.com",
+    "company_description": "Expressway to build your next Unicorn"
+  },
+  {
+    "company_link": "/company/jabbyai",
+    "company_name": "Jabby AI",
+    "company_logo": "https://logo.clearbit.com/jabbyai.com",
+    "company_description": "Smart Bots For Every Challenge."
+  },
+  {
+    "company_link": "/company/overlayzstudio",
+    "company_name": "Overlayz",
+    "company_logo": "https://logo.clearbit.com/overlayz.studio",
+    "company_description": "design, code & game studio"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Clearly Development",
+    "company_logo": "https://logo.clearbit.com/clearlydev.com",
+    "company_description": "The leading marketplace for UGC Developer"
+  },
+  {
+    "company_link": "/company/appxtech",
+    "company_name": "APPX TECHNOLOGIES LLP",
+    "company_logo": "https://www.google.com/s2/favicons?domain=appxtech.dev&sz=128",
+    "company_description": "Bridging Ideas with Technology"
+  },
+  {
+    "company_link": "/company/vivachefs",
+    "company_name": "Viva Chefs",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "A marketplace to find affordable in home chefs for meal prep"
+  },
+  {
+    "company_link": "/company/peerlist",
+    "company_name": "Peerlist",
+    "company_logo": "https://logo.clearbit.com/peerlist.io",
+    "company_description": "A professional network for designers, developers, product managers, recruiters, founders, and investors."
+  },
+  {
+    "company_link": "/company/letsupgrade",
+    "company_name": "LetsUpgrade",
+    "company_logo": "https://logo.clearbit.com/letsupgrade.in",
+    "company_description": "Learn. Build. Share. Grow."
+  },
+  {
+    "company_link": "/company/mdtech",
+    "company_name": "MD TECH",
+    "company_logo": "https://logo.clearbit.com/mdtechcs.com",
+    "company_description": "Transforming Your Business with Modern Digital Technologies\n"
+  },
+  {
+    "company_link": "/company/devunion",
+    "company_name": "DevUnion: Building the Future of Development Together",
+    "company_logo": "https://logo.clearbit.com/devunion.dev",
+    "company_description": "Building the Future of Development Together"
+  },
+  {
+    "company_link": "/company/openalternative",
+    "company_name": "OpenAlternative",
+    "company_logo": "https://logo.clearbit.com/openalternative.co",
+    "company_description": "Discover Open Source Alternatives to Popular Software"
+  },
+  {
+    "company_link": "/company/clairvoyant",
+    "company_name": "Clairvoyant",
+    "company_logo": "https://logo.clearbit.com/clairvoyant.ai",
+    "company_description": null
+  },
+  {
+    "company_link": "/company/mindtickle",
+    "company_name": "Mindtickle",
+    "company_logo": "https://logo.clearbit.com/mindtickle.com",
+    "company_description": null
+  },
+  {
+    "company_link": "/company/texteroai",
+    "company_name": "Textero AI",
+    "company_logo": "https://logo.clearbit.com/textero.ai",
+    "company_description": "Research, Write, and Edit Papers 10x Faster"
+  },
+  {
+    "company_link": "/company/transimpact",
+    "company_name": "TransImpact",
+    "company_logo": "https://logo.clearbit.com/transimpact.com",
+    "company_description": "TransImpact is the industry leading supply chain technology & data firm dedicated to both cost reduction & optimization."
+  },
+  {
+    "company_link": "/company/scaledex",
+    "company_name": "Scaledex",
+    "company_logo": "https://www.google.com/s2/favicons?domain=scaledex.com&sz=128",
+    "company_description": "Cloud Technology Solutions "
+  },
+  {
+    "company_link": "/company/byrastudio",
+    "company_name": "byra.studio",
+    "company_logo": "https://logo.clearbit.com/byra.studio",
+    "company_description": "Design and digital marketing agency.\nInspired by Stockholm, based in Warsaw."
+  },
+  {
+    "company_link": "/company/blank",
+    "company_name": "Blank Labs",
+    "company_logo": "https://logo.clearbit.com/blanklabs.org",
+    "company_description": "Incubating change"
+  },
+  {
+    "company_link": "/company/bluebraintech",
+    "company_name": "Blue Brain Technologies",
+    "company_logo": "https://logo.clearbit.com/bluebraintech.com",
+    "company_description": "A IT solutions company, driven by innovation and tailored to deliver seamless, compatible ideas. "
+  },
+  {
+    "company_link": "/company/healthworksai",
+    "company_name": "HealthWorksAI",
+    "company_logo": "https://logo.clearbit.com/healthworksai.com",
+    "company_description": "Empowering Better Health Through Data-Driven Insights."
+  },
+  {
+    "company_link": "/company/3axislabs",
+    "company_name": "3axislabs",
+    "company_logo": "https://logo.clearbit.com/3axislabs.com",
+    "company_description": "Empowering businesses with technology"
+  },
+  {
+    "company_link": "/company/writesonic",
+    "company_name": "Writesonic",
+    "company_logo": "https://logo.clearbit.com/writesonic.com",
+    "company_description": "AI-powered content marketing and chatbots"
+  },
+  {
+    "company_link": "/company/intent",
+    "company_name": "Intent",
+    "company_logo": "https://logo.clearbit.com/tryintent.com",
+    "company_description": "A new framework for developers with focus on DX!"
+  },
+  {
+    "company_link": "/company/remotewlb",
+    "company_name": "RemoteWLB",
+    "company_logo": "https://logo.clearbit.com/remotewlb.com",
+    "company_description": "RemoteWLB is a remote job search platform."
+  },
+  {
+    "company_link": "/company/crework",
+    "company_name": "Crework",
+    "company_logo": "https://logo.clearbit.com/crework.in",
+    "company_description": "A school to help you build better products"
+  },
+  {
+    "company_link": "/company/inopai",
+    "company_name": "INOP",
+    "company_logo": "https://logo.clearbit.com/inop.ai",
+    "company_description": "Impactful Professional Network"
+  },
+  {
+    "company_link": "/company/unosecur",
+    "company_name": "Unosecur",
+    "company_logo": "https://logo.clearbit.com/unosecur.com",
+    "company_description": "Unosecur is a cloud identity security platform designed to address identity and access threats across multi-cloud env."
+  },
+  {
+    "company_link": "/company/kutumb",
+    "company_name": "Kutumb",
+    "company_logo": "https://logo.clearbit.com/kutumbapp.com",
+    "company_description": "Social Media for Bharat"
+  },
+  {
+    "company_link": "/company/hackbeke2",
+    "company_name": "HackBeke",
+    "company_logo": "https://logo.clearbit.com/hackbeke.me",
+    "company_description": "Hackbeke & HackWser is a Hacker's Community and we are professionals Hacker's.\n"
+  },
+  {
+    "company_link": "/company/versare",
+    "company_name": "Versare",
+    "company_logo": "https://logo.clearbit.com/versare.io",
+    "company_description": "Design and development of websites, e-commerce, apps, dashboards, and systems focused on innovation and scalability."
+  },
+  {
+    "company_link": "/company/sanctus",
+    "company_name": "SANCTVS",
+    "company_logo": "https://logo.clearbit.com/sanctus.ca",
+    "company_description": "Broad Marketing & Tech Company for SMEs"
+  },
+  {
+    "company_link": "/company/0608labs",
+    "company_name": "0608 Labs",
+    "company_logo": "https://logo.clearbit.com/0608labs.com",
+    "company_description": "App Studio"
+  },
+  {
+    "company_link": "/company/chatwoot",
+    "company_name": "Chatwoot",
+    "company_logo": "https://logo.clearbit.com/chatwoot.com",
+    "company_description": "Open-source customer engagement suite"
+  },
+  {
+    "company_link": "/company/nonstopio",
+    "company_name": "NonStop io Technologies",
+    "company_logo": "https://logo.clearbit.com/nonstopio.com",
+    "company_description": "Bespoke Product Development Solutions"
+  },
+  {
+    "company_link": "/company/thepotatostudio",
+    "company_name": "The Potato Studio",
+    "company_logo": "https://logo.clearbit.com/thepotatostudio.com",
+    "company_description": "Nothing matches the versatility of a potato."
+  },
+  {
+    "company_link": "/company/10kdesigners",
+    "company_name": "10kdesigners",
+    "company_logo": "https://logo.clearbit.com/10kdesigners.com",
+    "company_description": "The design school of the future \u2013 work on projects, meet designers, learn new skills & build your creative career."
+  },
+  {
+    "company_link": "/company/effectiveworld",
+    "company_name": "effective world",
+    "company_logo": "https://logo.clearbit.com/effective-world.com",
+    "company_description": "Make your world effective"
+  },
+  {
+    "company_link": "/company/datagapsindia",
+    "company_name": "Datagaps",
+    "company_logo": "https://logo.clearbit.com/datagaps.com",
+    "company_description": "The Great Data Company"
+  },
+  {
+    "company_link": "/company/infracloud",
+    "company_name": "InfraCloud",
+    "company_logo": "https://logo.clearbit.com/infracloud.io",
+    "company_description": "Reimagine with Cloud Native"
+  },
+  {
+    "company_link": "/company/gradually",
+    "company_name": "Gradually LTD",
+    "company_logo": "https://www.google.com/s2/favicons?domain=quitporn.ai&sz=128",
+    "company_description": "Gradually LTD help you be better gradually."
+  },
+  {
+    "company_link": "/company/scrobits",
+    "company_name": "Scrobits Technologies",
+    "company_logo": "https://logo.clearbit.com/scrobits.com",
+    "company_description": "Driving Tech Innovatively"
+  },
+  {
+    "company_link": "/company/beesoul",
+    "company_name": "Beesoul",
+    "company_logo": "https://logo.clearbit.com/beesoul.co",
+    "company_description": "Beesoul LLC is an award-winning Digital Consulting and engineering company offering end-to-end development solutions "
+  },
+  {
+    "company_link": "/company/resulticks",
+    "company_name": "Resulticks",
+    "company_logo": "https://logo.clearbit.com/resulticks.com",
+    "company_description": "Revolutionizing Audience Engagement for Growth"
+  },
+  {
+    "company_link": "/company/wrappixel",
+    "company_name": "WrapPixel",
+    "company_logo": "https://logo.clearbit.com/wrappixel.com",
+    "company_description": "Ready-to-Use Production-Grade Admin Dashboard Templates."
+  },
+  {
+    "company_link": "/company/teachyst",
+    "company_name": "Teachyst",
+    "company_logo": "https://www.google.com/s2/favicons?domain=teachyst.com&sz=128",
+    "company_description": "White-Labeled, Next Generation LMS."
+  },
+  {
+    "company_link": "/company/tickadoo",
+    "company_name": "tickadoo",
+    "company_logo": "https://www.google.com/s2/favicons?domain=tickadoo.com&sz=128",
+    "company_description": "tickadoo is making event discovery hyper personalised."
+  },
+  {
+    "company_link": "/company/livingdotso",
+    "company_name": "living.so",
+    "company_logo": "https://www.google.com/s2/favicons?domain=living.so&sz=128",
+    "company_description": "Turn your life's story into a website"
+  },
+  {
+    "company_link": "/company/syncsignature",
+    "company_name": "SyncSignature",
+    "company_logo": "https://logo.clearbit.com/syncsignature.com",
+    "company_description": "Branded email signatures for businesses and professionals"
+  },
+  {
+    "company_link": "/company/upreak",
+    "company_name": "Upreak",
+    "company_logo": "https://www.google.com/s2/favicons?domain=upreak.com&sz=128",
+    "company_description": "Make your dream job a realty"
+  },
+  {
+    "company_link": "/company/ignite",
+    "company_name": "Ignite Solutions",
+    "company_logo": "https://logo.clearbit.com/ignitesol.com",
+    "company_description": "Top UX Design, Custom Software Product Development, and Fractional CTO Consulting for Digital Startups.\n\n"
+  },
+  {
+    "company_link": "/company/twing",
+    "company_name": "Twing",
+    "company_logo": "https://www.google.com/s2/favicons?domain=usetwing.com&sz=128",
+    "company_description": "Empower Your Legal Practice with AI-Driven Precision"
+  },
+  {
+    "company_link": "/company/thence",
+    "company_name": "Thence",
+    "company_logo": "https://logo.clearbit.com/thence.co",
+    "company_description": "Thence is a Product Success Company bringing together practices spanning strategy, research, design, engineering."
+  },
+  {
+    "company_link": "/company/wintwealth",
+    "company_name": "Wint Wealth",
+    "company_logo": "https://logo.clearbit.com/wintwealth.com",
+    "company_description": "It\u2019s time to add stability to your portfolio. Without compromising on high returns."
+  },
+  {
+    "company_link": "/company/infinitylinkage",
+    "company_name": "Infinity Linkage",
+    "company_logo": "https://logo.clearbit.com/infinitylinkage.com",
+    "company_description": "Web Design Agency"
+  },
+  {
+    "company_link": "/company/nexatech",
+    "company_name": "NEXATECH",
+    "company_logo": "https://logo.clearbit.com/nexatech.dz",
+    "company_description": "Your Business, Our Expertise, Your Success!"
+  },
+  {
+    "company_link": "/company/rubylabs",
+    "company_name": "Ruby Labs",
+    "company_logo": "https://logo.clearbit.com/rubylabs.com",
+    "company_description": "A leading tech company that creates innovative consumer products across health, education, and entertainment sectors."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "AHelp",
+    "company_logo": "https://logo.clearbit.com/ahelp.com",
+    "company_description": "Powerful AI tools and apps to save time and achieve\n5x writing efficiency"
+  },
+  {
+    "company_link": "/company/sharechat",
+    "company_name": "ShareChat",
+    "company_logo": "https://logo.clearbit.com/sharechat.com",
+    "company_description": "Leading social media platform in India"
+  },
+  {
+    "company_link": "/company/buildstash",
+    "company_name": "Buildstash",
+    "company_logo": "https://www.google.com/s2/favicons?domain=buildstash.com&sz=128",
+    "company_description": "We're fixing build-to-release management for app and game developers."
+  },
+  {
+    "company_link": "/company/netixsol",
+    "company_name": "NetixSol",
+    "company_logo": "https://logo.clearbit.com/netixsol.com",
+    "company_description": "Blockchain Development Company"
+  },
+  {
+    "company_link": "/company/cloudcodeai",
+    "company_name": "CloudCode.ai",
+    "company_logo": "https://www.google.com/s2/favicons?domain=cloudcode.ai&sz=128",
+    "company_description": "AI assistant to help you find bugs and fix them"
+  },
+  {
+    "company_link": "/company/ikonic",
+    "company_name": "IKONIC",
+    "company_logo": "https://logo.clearbit.com/ikonicsolution.com",
+    "company_description": "Full Stack Laravel Developer @ IKONIC | Laravel, PHP"
+  },
+  {
+    "company_link": "/company/dataniti",
+    "company_name": "Dataniti",
+    "company_logo": "https://logo.clearbit.com/dataniti.ai",
+    "company_description": "Data Governance, AI Infrastructure, and Privacy"
+  },
+  {
+    "company_link": "/company/forkai",
+    "company_name": "Fork",
+    "company_logo": "https://logo.clearbit.com/fork.ai",
+    "company_description": "Fork.ai | Get App Leads with Verified Emails and Contacts."
+  },
+  {
+    "company_link": "/company/soarx",
+    "company_name": "SoarX",
+    "company_logo": "https://www.google.com/s2/favicons?domain=soarx.tech&sz=128",
+    "company_description": "A nationwide community committed to igniting the potential of students through engaging events, sessions, and hackathons"
+  },
+  {
+    "company_link": "/company/multiplogic",
+    "company_name": "Multiplogic",
+    "company_logo": "https://logo.clearbit.com/multiplogic.com",
+    "company_description": "A Cutting Edge Digital Marketing Company with 8+ years of experience in UK & UAE"
+  },
+  {
+    "company_link": "/company/procol",
+    "company_name": "Procol",
+    "company_logo": "https://logo.clearbit.com/procol.io",
+    "company_description": "Procurement platform that reduces manual tasks, saves money, and gives you complete control over your procurement spend"
+  },
+  {
+    "company_link": "/company/kofferx",
+    "company_name": "kofferX",
+    "company_logo": "https://www.google.com/s2/favicons?domain=kofferx.com&sz=128",
+    "company_description": "kofferX is a design-ops tool designed to streamline design-team delivery with a centralized hub for assets."
+  },
+  {
+    "company_link": "/company/dodopayments",
+    "company_name": "Dodo Payments",
+    "company_logo": "https://www.google.com/s2/favicons?domain=dodopayments.com&sz=128",
+    "company_description": "Dodo Payments is a full-stack solution, acting as the global Merchant of Record for SaaS selling digital products."
+  },
+  {
+    "company_link": "/company/okxpert",
+    "company_name": "okexpert",
+    "company_logo": "https://logo.clearbit.com/ok.expert",
+    "company_description": "Marketplace of Experts, Influencers and Organizations"
+  },
+  {
+    "company_link": "/company/devtuition",
+    "company_name": "Devtuition",
+    "company_logo": "https://www.google.com/s2/favicons?domain=devtuition.org&sz=128",
+    "company_description": "Quality software engineering bootcamp! PS: \ud83d\udc40 It's live classroom sessions, not recorded."
+  },
+  {
+    "company_link": "/company/teeketapp",
+    "company_name": "Teeket",
+    "company_logo": "https://logo.clearbit.com/teeket.app",
+    "company_description": "The social commerce platform for creators and experiences."
+  },
+  {
+    "company_link": "/company/mooglelabs",
+    "company_name": "MoogleLabs",
+    "company_logo": "https://logo.clearbit.com/mooglelabs.com",
+    "company_description": "Decoding Innovation"
+  },
+  {
+    "company_link": "/company/zintler",
+    "company_name": "Zintlr",
+    "company_logo": "https://logo.clearbit.com/zintlr.com",
+    "company_description": "Zintlr is a sales intelligence platform that empowers businesses with 250M+ B2B Database & AI Powered Personality Intel."
+  },
+  {
+    "company_link": "/company/ivipop",
+    "company_name": "ivipop",
+    "company_logo": "https://www.google.com/s2/favicons?domain=ivipop.com&sz=128",
+    "company_description": "search event platform"
+  },
+  {
+    "company_link": "/company/gezerkenkazan",
+    "company_name": "Gezerken Kazan",
+    "company_logo": "https://logo.clearbit.com/gezerkenkazan.com",
+    "company_description": "A digital nomad community."
+  },
+  {
+    "company_link": "/company/saffronstays",
+    "company_name": "SaffronStays",
+    "company_logo": "https://logo.clearbit.com/saffronstays.com",
+    "company_description": "Where Families Bond"
+  },
+  {
+    "company_link": "/company/studyabroad",
+    "company_name": "Route Finance",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "A FinTech helping students study abroad"
+  },
+  {
+    "company_link": "/company/upsurge",
+    "company_name": "Upsurge Labs",
+    "company_logo": "https://www.google.com/s2/favicons?domain=upsurge.io&sz=128",
+    "company_description": "Innovation labs pioneering in AI, Biotech, Healthtech, Spacetech & advancing science through cutting-edge computation."
+  },
+  {
+    "company_link": "/company/yourbrandmate",
+    "company_name": "Your Brand Mate",
+    "company_logo": "https://logo.clearbit.com/yourbrandmate.in",
+    "company_description": "Design-led creative and tech team. "
+  },
+  {
+    "company_link": "/company/microsoft",
+    "company_name": "Microsoft",
+    "company_logo": "https://logo.clearbit.com/microsoft.com",
+    "company_description": "We believe in what people make possible."
+  },
+  {
+    "company_link": "/company/dynogee",
+    "company_name": "Dynogee",
+    "company_logo": "https://www.google.com/s2/favicons?domain=dynogee.com&sz=128",
+    "company_description": "Turn any Figma frame into an Image Rendering API"
+  },
+  {
+    "company_link": "/company/futurevision",
+    "company_name": "future vision",
+    "company_logo": "https://www.google.com/s2/favicons?domain=byfuturevision.com&sz=128",
+    "company_description": "crafting cutting-edge products and experiences at the intersection of design, Al, and engineering\n#FeelSomethingNew"
+  },
+  {
+    "company_link": "/company/droga",
+    "company_name": "Droga Pharma PLC",
+    "company_logo": "https://logo.clearbit.com/drogapharma.com",
+    "company_description": "Serving the People"
+  },
+  {
+    "company_link": "/company/mealobox",
+    "company_name": "MealOBox",
+    "company_logo": "https://logo.clearbit.com/mealobox.in",
+    "company_description": "Motherly Love in a Box!"
+  },
+  {
+    "company_link": "/company/portflix",
+    "company_name": "Portflix",
+    "company_logo": "https://www.google.com/s2/favicons?domain=portflix.io&sz=128",
+    "company_description": "Effortlessly convert resume to a stunning personal webite featuring an AI Chatbot to assist your visitors on your behalf"
+  },
+  {
+    "company_link": "/company/epamsystems",
+    "company_name": "EPAM Systems",
+    "company_logo": "https://logo.clearbit.com/epam.com",
+    "company_description": "Software engineering services, IT consulting and digital product design"
+  },
+  {
+    "company_link": "/company/the_enthusiast",
+    "company_name": "The Enthusiast",
+    "company_logo": "https://www.google.com/s2/favicons?domain=theenthusiast.dev&sz=128",
+    "company_description": "A open source privacy focused organization"
+  },
+  {
+    "company_link": "/company/gaming",
+    "company_name": "VK.com",
+    "company_logo": "https://logo.clearbit.com/vk.com",
+    "company_description": "Social network"
+  },
+  {
+    "company_link": "/company/jeanphilippe",
+    "company_name": "Ecotuned Automobile",
+    "company_logo": "https://logo.clearbit.com/ecotuned.com",
+    "company_description": "no"
+  },
+  {
+    "company_link": "/company/prernapoojari",
+    "company_name": "Deuex Solutions",
+    "company_logo": "https://logo.clearbit.com/deuexsolutions.com",
+    "company_description": "We are built on the vision of enabling business success through enterprise, web and mobile solutions."
+  },
+  {
+    "company_link": "/company/fourcore",
+    "company_name": "FourCore",
+    "company_logo": "https://logo.clearbit.com/fourcore.io",
+    "company_description": "Assess, validate and improve your security controls with realistic cyber adversary emulation."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Royal Developer",
+    "company_logo": "https://logo.clearbit.com/royaldeveloper.in",
+    "company_description": "Web Development and designing Company in Dehradun"
+  },
+  {
+    "company_link": "/company/cogxen",
+    "company_name": "Cogxen",
+    "company_logo": "https://www.google.com/s2/favicons?domain=cogxen.quest&sz=128",
+    "company_description": "Empowers data enthusiasts and practitioners with the tools and knowledge to unlock the potential of data."
+  },
+  {
+    "company_link": "/company/pibistudio",
+    "company_name": "pibi.studio",
+    "company_logo": "https://www.google.com/s2/favicons?domain=pibi.studio&sz=128",
+    "company_description": "Build and Bootstrap with our experts to build and improve your mobile apps."
+  },
+  {
+    "company_link": "/company/pineify_team",
+    "company_name": "Pineify",
+    "company_logo": "https://www.google.com/s2/favicons?domain=pineify.app&sz=128",
+    "company_description": "TradingView Pine Script Indicator & Strategy Generator"
+  },
+  {
+    "company_link": "/company/ayurvedology",
+    "company_name": "Ayurvedology",
+    "company_logo": "https://logo.clearbit.com/ayurvedology.com",
+    "company_description": "Nurturing Ayurveda with Technology"
+  },
+  {
+    "company_link": "/company/phonepeinrnet",
+    "company_name": "PhonePe",
+    "company_logo": "https://logo.clearbit.com/phonepe.com",
+    "company_description": "India\u2019s largest payments app, enabling digital inclusion for consumers and merchants."
+  },
+  {
+    "company_link": "/company/investorean",
+    "company_name": "Investorean",
+    "company_logo": "https://logo.clearbit.com/investorean.com",
+    "company_description": "Capital Markets Analysis & Premium Tools For Retail Investors"
+  },
+  {
+    "company_link": "/company/dub",
+    "company_name": "Dub.co",
+    "company_logo": "https://logo.clearbit.com/dub.co",
+    "company_description": "Open-source link management for modern marketing teams. Loved by world-class teams like Vercel, Raycast, and Perplexity."
+  },
+  {
+    "company_link": "/company/atlan",
+    "company_name": "Atlan",
+    "company_logo": "https://logo.clearbit.com/atlan.com",
+    "company_description": "Helping Data Teams world-wide, do their life's best work by unleashing the power of active metadata."
+  },
+  {
+    "company_link": "/company/commsor",
+    "company_name": "Commsor",
+    "company_logo": "https://logo.clearbit.com/commsor.com",
+    "company_description": "We believe your network is your most valuable asset."
+  },
+  {
+    "company_link": "/company/fingent",
+    "company_name": "Fingent",
+    "company_logo": "https://logo.clearbit.com/fingent.com",
+    "company_description": "Build robust, reliable technology solutions with Fingent - A Trusted Custom Software Development Company"
+  },
+  {
+    "company_link": "/company/stampmyvisa",
+    "company_name": "StampMyVisa",
+    "company_logo": "https://logo.clearbit.com/stampmyvisa.com",
+    "company_description": "India's Leading B2B Visa Platform for Travel Businesses"
+  },
+  {
+    "company_link": "/company/healthcompiler",
+    "company_name": "Health Compiler",
+    "company_logo": "https://logo.clearbit.com/healthcompiler.com",
+    "company_description": "AI Analytics "
+  },
+  {
+    "company_link": "/company/taliun",
+    "company_name": "Taliun",
+    "company_logo": "https://logo.clearbit.com/taliun.com",
+    "company_description": "Imagine, Elevate, Thrive with data-driven solutions for accelerated digital engineering & enterprise modernization"
+  },
+  {
+    "company_link": "/company/quadqode",
+    "company_name": "Quadqode",
+    "company_logo": "https://logo.clearbit.com/quadqode.com",
+    "company_description": "We're a creative studio that specializes in helping founders, marketing teams, and startups grow by creating exceptional"
+  },
+  {
+    "company_link": "/company/curations",
+    "company_name": "Curations Creative",
+    "company_logo": "https://logo.clearbit.com/curations.org",
+    "company_description": "We curate the hearts of brands."
+  },
+  {
+    "company_link": "/company/hatch",
+    "company_name": "Hatch",
+    "company_logo": "https://logo.clearbit.com/hatch.llc",
+    "company_description": "B2B Brand Design Thinking + Asset Innovation for Humans in Business"
+  },
+  {
+    "company_link": "/company/rsnkri",
+    "company_name": "Microsoft Learn Student Ambassadors",
+    "company_logo": "https://logo.clearbit.com/studentambassadors.com",
+    "company_description": "Beta Microsoft Learn Student Ambassador"
+  },
+  {
+    "company_link": "/company/bricxlabs",
+    "company_name": "BRICX",
+    "company_logo": "https://logo.clearbit.com/bricxlabs.com",
+    "company_description": "We design stunning MVPs & improver user experience for B2B SaaS companies."
+  },
+  {
+    "company_link": "/company/epyc",
+    "company_name": "EPYC",
+    "company_logo": "https://logo.clearbit.com/epyc.in",
+    "company_description": "We help companies move faster without code\n"
+  },
+  {
+    "company_link": "/company/chakravyu",
+    "company_name": "Chakravyu",
+    "company_logo": "https://logo.clearbit.com/chakravyu.com",
+    "company_description": "Gamified Cybersecurity"
+  },
+  {
+    "company_link": "/company/devitup",
+    "company_name": "DevItUp",
+    "company_logo": "https://logo.clearbit.com/devitup.in",
+    "company_description": "Igniting brands, Inspiring audiences"
+  },
+  {
+    "company_link": "/company/indiestarter",
+    "company_name": "indie-starter.dev",
+    "company_logo": "https://logo.clearbit.com/indie-starter.dev",
+    "company_description": "Minimalistic well-crafted Nextjs Boilerplate"
+  },
+  {
+    "company_link": "/company/march",
+    "company_name": "March",
+    "company_logo": "https://www.google.com/s2/favicons?domain=march.cat&sz=128",
+    "company_description": "March is a blazing fast connected workspace for all your action items, thoughts, to-dos, notes, urls to put in motion."
+  },
+  {
+    "company_link": "/company/twilio",
+    "company_name": "Twilio",
+    "company_logo": "https://logo.clearbit.com/twilio.com",
+    "company_description": "Developers love us. Enterprises trust us. Power your customer engagement innovation with Twilio."
+  },
+  {
+    "company_link": "/company/holidayscrowd",
+    "company_name": "Holidays Crowd",
+    "company_logo": "https://logo.clearbit.com/holidayscrowd.com",
+    "company_description": "Let's Fly Away"
+  },
+  {
+    "company_link": "/company/robotostudio",
+    "company_name": "Roboto Studio",
+    "company_logo": "https://logo.clearbit.com/roboto.studio",
+    "company_description": "The Sanity & Next.js Experts"
+  },
+  {
+    "company_link": "/company/secretarium",
+    "company_name": "Secretarium",
+    "company_logo": "https://logo.clearbit.com/secretarium.com",
+    "company_description": "Secretarium protects sensitive data, safeguards intellectual property, and demonstrates honesty."
+  },
+  {
+    "company_link": "/company/secretcity",
+    "company_name": "Secret City",
+    "company_logo": "https://logo.clearbit.com/secretcity.studio",
+    "company_description": "We're a mission-based design studio working on new ways to bring people together."
+  },
+  {
+    "company_link": "/company/polydesign",
+    "company_name": "PolyDesign",
+    "company_logo": "https://logo.clearbit.com/polydesign.xyz",
+    "company_description": "Creative intuitions and Strategic thinking."
+  },
+  {
+    "company_link": "/company/webdevamin1",
+    "company_name": "Webdevamin",
+    "company_logo": "https://logo.clearbit.com/webdevamin.com",
+    "company_description": "Developing digital solutions to empower your business with a focus on your needs. Websites, web apps and more."
+  },
+  {
+    "company_link": "/company/postman",
+    "company_name": "Postman",
+    "company_logo": "https://logo.clearbit.com/postman.com",
+    "company_description": "The API platform used by more than 25 million developers."
+  },
+  {
+    "company_link": "/company/avoma",
+    "company_name": "Avoma",
+    "company_logo": "https://logo.clearbit.com/avoma.com",
+    "company_description": "AI Meeting Assistant"
+  },
+  {
+    "company_link": "/company/openinapp",
+    "company_name": "OpeninApp",
+    "company_logo": "https://logo.clearbit.com/openinapp.com",
+    "company_description": "We are a Lab Building Products for the Creator Economy."
+  },
+  {
+    "company_link": "/company/hexcode",
+    "company_name": "Hexcode (Formerly Huede)",
+    "company_logo": "https://www.google.com/s2/favicons?domain=hexcode.design&sz=128",
+    "company_description": "Possibilities Beyond Limits!"
+  },
+  {
+    "company_link": "/company/rippling",
+    "company_name": "Rippling",
+    "company_logo": "https://logo.clearbit.com/rippling.com",
+    "company_description": "Magically Simplify HR, IT, and Finance"
+  },
+  {
+    "company_link": "/company/localeai",
+    "company_name": "Locale",
+    "company_logo": "https://logo.clearbit.com/locale.ai",
+    "company_description": "Workflow Automation Tool"
+  },
+  {
+    "company_link": "/company/liveaskcom",
+    "company_name": "Live-Ask",
+    "company_logo": "https://logo.clearbit.com/live-ask.com",
+    "company_description": "Empowering Events, One Question at a Time: Dive into Live-Ask.com for Seamless Audience Engagement! \ud83c\udf1f\ud83d\ude80"
+  },
+  {
+    "company_link": "/company/skyflow",
+    "company_name": "Skyflow",
+    "company_logo": "https://logo.clearbit.com/skyflow.com",
+    "company_description": "What if privacy had an API?"
+  },
+  {
+    "company_link": "/company/openttext",
+    "company_name": "OpenText",
+    "company_logo": "https://logo.clearbit.com/opentext.com",
+    "company_description": "At OpenText everything we do is based on a simple idea! "
+  },
+  {
+    "company_link": "/company/headout",
+    "company_name": "Headout",
+    "company_logo": "https://logo.clearbit.com/headout.com",
+    "company_description": "The world's best real life experiences curated just for you in one single tap."
+  },
+  {
+    "company_link": "/company/credhq",
+    "company_name": "CRED",
+    "company_logo": "https://logo.clearbit.com/cred.club",
+    "company_description": "Build great for good."
+  },
+  {
+    "company_link": "/company/foldhealth",
+    "company_name": "foldhealth",
+    "company_logo": "https://logo.clearbit.com/fold.health",
+    "company_description": "The Building Blocks of Modern Primary Care"
+  },
+  {
+    "company_link": "/company/salt",
+    "company_name": "SALT",
+    "company_logo": "https://logo.clearbit.com/salt.pe",
+    "company_description": "On a mission to make international banking easy for businesses."
+  },
+  {
+    "company_link": "/company/starfortgames",
+    "company_name": "Star Fort Games",
+    "company_logo": "https://logo.clearbit.com/starfortgames.com",
+    "company_description": "We are an Ottawa-Based game studio working on AAA and Mobile GAAS. Part of the @Arctic7 family"
+  },
+  {
+    "company_link": "/company/freestand",
+    "company_name": "FreeStand",
+    "company_logo": "https://logo.clearbit.com/freestand.in",
+    "company_description": "B2B Marketplace for FMCG Product Sampling"
+  },
+  {
+    "company_link": "/company/neotas",
+    "company_name": "Neotas",
+    "company_logo": "https://logo.clearbit.com/neotas.com",
+    "company_description": "World class due diligence platform"
+  },
+  {
+    "company_link": "/company/last9",
+    "company_name": "Last9 Inc",
+    "company_logo": "https://logo.clearbit.com/last9.io",
+    "company_description": "Managed Observability Infrastructure "
+  },
+  {
+    "company_link": "/company/webnyayai",
+    "company_name": "Webnyay",
+    "company_logo": "https://logo.clearbit.com/webnyay.in",
+    "company_description": "Resolve complaints and disputes outside court."
+  },
+  {
+    "company_link": "/company/aligned",
+    "company_name": "Aligned Automation",
+    "company_logo": "https://logo.clearbit.com/alignedautomation.com",
+    "company_description": "A transformation service partner that creates intelligent operations fueled by data, insights and action."
+  },
+  {
+    "company_link": "/company/preplaced",
+    "company_name": "Preplaced",
+    "company_logo": "https://logo.clearbit.com/preplaced.in",
+    "company_description": "Unlock Your Dream Career With Personalized 1:1 Long Term Mentorship.\n"
+  },
+  {
+    "company_link": "/company/cloudxchange",
+    "company_name": "cloudxchange.io",
+    "company_logo": "https://logo.clearbit.com/cloudxchange.io",
+    "company_description": "Your partner for a smooth cloud transformation"
+  },
+  {
+    "company_link": "/company/empower",
+    "company_name": "Empower Associates",
+    "company_logo": "https://logo.clearbit.com/empower.associates",
+    "company_description": "Empower is a group of senior recruiters who leverage both a process and platform that  amplifies their recruiting."
+  },
+  {
+    "company_link": "/company/propreturns",
+    "company_name": "PropReturns",
+    "company_logo": "https://logo.clearbit.com/propreturns.com",
+    "company_description": "PropReturns is India's largest real estate investment platform for users to invest in Indian Real Estate backed by data."
+  },
+  {
+    "company_link": "/company/uniblox",
+    "company_name": "UniBlox",
+    "company_logo": "https://logo.clearbit.com/uniblox.io",
+    "company_description": "Empowering a future where insurance is as accessible and intuitive as e-commerce"
+  },
+  {
+    "company_link": "/company/thedapplist",
+    "company_name": "The Dapp List",
+    "company_logo": "https://logo.clearbit.com/thedapplist.com",
+    "company_description": "Curating Web3"
+  },
+  {
+    "company_link": "/company/uxhack",
+    "company_name": "UXHack",
+    "company_logo": "https://logo.clearbit.com/uxhack.co",
+    "company_description": "UXHack is a hackathon platform for companies to get quick UX solutions and identify talent for their needs"
+  },
+  {
+    "company_link": "/company/particulatech",
+    "company_name": "Particula Tech",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Our mission is to empower businesses by harnessing the power of Al technologies."
+  },
+  {
+    "company_link": "/company/vicharak",
+    "company_name": "Vicharak",
+    "company_logo": "https://logo.clearbit.com/vicharak.in",
+    "company_description": "Von-neumann architecture is outdated. Let's build faster computers."
+  },
+  {
+    "company_link": "/company/nintee",
+    "company_name": "Nintee",
+    "company_logo": "https://logo.clearbit.com/nintee.com",
+    "company_description": "The world's first AI-based personal growth coach"
+  },
+  {
+    "company_link": "/company/zelta",
+    "company_name": "ZELTA",
+    "company_logo": "https://logo.clearbit.com/zelta.io",
+    "company_description": "The Gateway to Web 3.0: NFTs, Cryptocurrency & Much more"
+  },
+  {
+    "company_link": "/company/vaadaymedia",
+    "company_name": "Vaaday Media",
+    "company_logo": "https://logo.clearbit.com/vaadaymedia.com",
+    "company_description": "Creative services for VFX artists and Business"
+  },
+  {
+    "company_link": "/company/epilot",
+    "company_name": "epilot",
+    "company_logo": "https://logo.clearbit.com/epilot.cloud",
+    "company_description": "The platform for a new energy world"
+  },
+  {
+    "company_link": "/company/techrg",
+    "company_name": "Technology Resource Group",
+    "company_logo": "https://logo.clearbit.com/techrg.com",
+    "company_description": "We are experts in Automotive Mobility and Propulsion, IT, Software and Infrastructure.  We love all things technology."
+  },
+  {
+    "company_link": "/company/growthacad",
+    "company_name": "GrowthAcad",
+    "company_logo": "https://logo.clearbit.com/growthacad.com",
+    "company_description": "Best digital marketing course in Pune."
+  },
+  {
+    "company_link": "/company/typehero",
+    "company_name": "TypeHero",
+    "company_logo": "https://logo.clearbit.com/typehero.dev",
+    "company_description": "All you need to become a TypeScript menace"
+  },
+  {
+    "company_link": "/company/deckrooster",
+    "company_name": "Deck Rooster",
+    "company_logo": "https://logo.clearbit.com/deckrooster.com",
+    "company_description": "Helping Series A+ founder's develop compelling investor/sales deck narratives"
+  },
+  {
+    "company_link": "/company/gyaan",
+    "company_name": "Gyaan.ai",
+    "company_logo": "https://logo.clearbit.com/gyaan.ai",
+    "company_description": "The ultimate workspace for high-performance revenue teams."
+  },
+  {
+    "company_link": "/company/meta1",
+    "company_name": "Meta",
+    "company_logo": "https://logo.clearbit.com/meta.com",
+    "company_description": "Meta - Connecting People"
+  },
+  {
+    "company_link": "/company/apyhub",
+    "company_name": "ApyHub",
+    "company_logo": "https://logo.clearbit.com/apyhub.com",
+    "company_description": "The developer API utility belt"
+  },
+  {
+    "company_link": "/company/copodsco",
+    "company_name": "Copods",
+    "company_logo": "https://logo.clearbit.com/copods.co",
+    "company_description": "Shaping great experiences, building great brands."
+  },
+  {
+    "company_link": "/company/dyte_io",
+    "company_name": "Dyte",
+    "company_logo": "https://logo.clearbit.com/dyte.io",
+    "company_description": "The most developer friendly live video SDK"
+  },
+  {
+    "company_link": "/company/jiocinema",
+    "company_name": "Viacom18 Media Private Limited",
+    "company_logo": "https://logo.clearbit.com/viacom18.com",
+    "company_description": "Building India's largest media platform - JioCinema"
+  },
+  {
+    "company_link": "/company/skaleway",
+    "company_name": "Skaleway",
+    "company_logo": "https://logo.clearbit.com/skaleway.com",
+    "company_description": "A Digital product and design Company"
+  },
+  {
+    "company_link": "/company/wednesday",
+    "company_name": "Wednesday Solutions",
+    "company_logo": "https://logo.clearbit.com/wednesday.is",
+    "company_description": "Build & design great digital products with a team that cares."
+  },
+  {
+    "company_link": "/company/ridecell",
+    "company_name": "Ridecell",
+    "company_logo": "https://logo.clearbit.com/ridecell.com",
+    "company_description": "Move The World Better."
+  },
+  {
+    "company_link": "/company/tuesdaysol",
+    "company_name": "Tuesday",
+    "company_logo": "https://logo.clearbit.com/tuesday.is",
+    "company_description": "Webflow Consulting, Design & Development."
+  },
+  {
+    "company_link": "/company/holdex",
+    "company_name": "Holdex",
+    "company_logo": "https://logo.clearbit.com/holdex.io",
+    "company_description": "Startup studio with a focus on Web3. Helping startups design, build, and grow their products. "
+  },
+  {
+    "company_link": "/company/dropspace",
+    "company_name": "dropspace",
+    "company_logo": "https://logo.clearbit.com/dropspace.art",
+    "company_description": "No-code NFT minting."
+  },
+  {
+    "company_link": "/company/one2n",
+    "company_name": "One2N",
+    "company_logo": "https://www.google.com/s2/favicons?domain=one2n.in&sz=128",
+    "company_description": "We help startups and scaleups with backend and reliability engineering. If you're scaling from 1 to N, talk to us!"
+  },
+  {
+    "company_link": "/company/merlin",
+    "company_name": "Merlin",
+    "company_logo": "https://logo.clearbit.com/foyer.work",
+    "company_description": "AI assistant that sits in your browser"
+  },
+  {
+    "company_link": "/company/heliumlearn",
+    "company_name": "Helium",
+    "company_logo": "https://www.google.com/s2/favicons?domain=heliumlearn.com&sz=128",
+    "company_description": "Enabling AI Powered e-Learning Education"
+  },
+  {
+    "company_link": "/company/galloverde",
+    "company_name": "GalloVerde GmbH & Co. KG",
+    "company_logo": "https://logo.clearbit.com/galloverde.de",
+    "company_description": "Software development specialists in Laravel"
+  },
+  {
+    "company_link": "/company/trikon",
+    "company_name": "Trikon",
+    "company_logo": "https://logo.clearbit.com/trikon.io",
+    "company_description": "Making Web3 Accessible"
+  },
+  {
+    "company_link": "/company/zinance",
+    "company_name": "Trial",
+    "company_logo": "https://www.google.com/s2/favicons?domain=zinance.io&sz=128",
+    "company_description": "zinance"
+  },
+  {
+    "company_link": "/company/quizizz",
+    "company_name": "Quizizz",
+    "company_logo": "https://logo.clearbit.com/quizizz.com",
+    "company_description": "What are you teaching next?"
+  },
+  {
+    "company_link": "/company/fluidata",
+    "company_name": "Fluidata",
+    "company_logo": "https://logo.clearbit.com/fluidatainc.com",
+    "company_description": "We enable companies and leaders with data and analytics solutions that drive high-value business outcomes."
+  },
+  {
+    "company_link": "/company/blinkstore",
+    "company_name": "Blinkstore",
+    "company_logo": "https://logo.clearbit.com/blinkstore.in",
+    "company_description": "Helping brands and creators launch their own print-on-demand dropshipping business within minutes for free."
+  },
+  {
+    "company_link": "/company/designclan",
+    "company_name": "Design Clan",
+    "company_logo": "https://logo.clearbit.com/thedesignclan.com",
+    "company_description": "Become Top 1% UI UX Designer "
+  },
+  {
+    "company_link": "/company/technogise",
+    "company_name": "Technogise Private Limited",
+    "company_logo": "https://logo.clearbit.com/technogise.com",
+    "company_description": "A leading global technology consultancy that integrates strategy, design, and software engineering."
+  },
+  {
+    "company_link": "/company/settings_01",
+    "company_name": "Settings Infotech",
+    "company_logo": "https://logo.clearbit.com/settingsinfotech.com",
+    "company_description": "Settings Infotech | It\u2019s Our Business to Develop Yours"
+  },
+  {
+    "company_link": "/company/liveupx",
+    "company_name": "Liveupx Private Limited",
+    "company_logo": "https://logo.clearbit.com/liveupx.com",
+    "company_description": "Software Development & Marketing Services"
+  },
+  {
+    "company_link": "/company/startupfounders",
+    "company_name": "Startup Founders Club",
+    "company_logo": "https://logo.clearbit.com/startupfounders.club",
+    "company_description": "Removing barriers to entry for startup founders."
+  },
+  {
+    "company_link": "/company/nanonets",
+    "company_name": "Nanonets",
+    "company_logo": "https://logo.clearbit.com/nanonets.com",
+    "company_description": "An AI based workflow automation company - our product enables companies to convert their documents into structured data"
+  },
+  {
+    "company_link": "/company/getsaral",
+    "company_name": "SARAL - Your Influencer Assistant",
+    "company_logo": "https://logo.clearbit.com/getsaral.com",
+    "company_description": "We help DTC brands cut the middlemen and build \"direct-to-creator\" influencer programs. "
+  },
+  {
+    "company_link": "/company/cawstudios",
+    "company_name": "CAW Studios",
+    "company_logo": "https://logo.clearbit.com/cawstudios.com",
+    "company_description": "We run Engineering for Startups"
+  },
+  {
+    "company_link": "/company/maildroppa",
+    "company_name": "Maildroppa",
+    "company_logo": "https://logo.clearbit.com/maildroppa.com",
+    "company_description": "German Engineered Email Marketing Without the Hefty Price Tag."
+  },
+  {
+    "company_link": "/company/myblackbean",
+    "company_name": "Blackbean",
+    "company_logo": "https://logo.clearbit.com/myblackbean.ca",
+    "company_description": "We\u2019re a Digitally Native Co.; with a focus on music, and experiences. "
+  },
+  {
+    "company_link": "/company/trackwizz",
+    "company_name": "TSS Consultancy Pvt Ltd",
+    "company_logo": "https://logo.clearbit.com/trackwizz.com",
+    "company_description": "Fighting financial crime"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Timonwa's Notes",
+    "company_logo": "https://logo.clearbit.com/blog.timonwa.com",
+    "company_description": "A technical blog about web development that helps other developers learn easier. "
+  },
+  {
+    "company_link": "/company/mixcode_io",
+    "company_name": "Mixcode.io",
+    "company_logo": "https://www.google.com/s2/favicons?domain=mixcode.io&sz=128",
+    "company_description": "Video,Live Chat & Help Center widget for the website"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Scattr",
+    "company_logo": "https://logo.clearbit.com/scattr.io",
+    "company_description": "The Easiest Way to Spread Your Writing Across the Internet "
+  },
+  {
+    "company_link": "/company/accrue_serp",
+    "company_name": "Accrue SERP",
+    "company_logo": "https://logo.clearbit.com/accrueserp.com",
+    "company_description": "SEO Agency in India"
+  },
+  {
+    "company_link": "/company/repello",
+    "company_name": "Repello AI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=repello.ai&sz=128",
+    "company_description": "The only way to secure your AI is to know where it's broken. We can help!"
+  },
+  {
+    "company_link": "/company/acumennmoney",
+    "company_name": "Acumenn Money Pvt Ltd",
+    "company_logo": "https://www.google.com/s2/favicons?domain=acumenn.money&sz=128",
+    "company_description": "SEBI registered Stock Broker since 1992, AMFI registered Mutual Fund Distributor, Corporate FDs, Capital Gain Bonds, PMS"
+  },
+  {
+    "company_link": "/company/consultadd",
+    "company_name": "Consultadd",
+    "company_logo": "https://logo.clearbit.com/consultadd.com",
+    "company_description": "IT Service & Consultinh"
+  },
+  {
+    "company_link": "/company/galgal",
+    "company_name": "Galgal",
+    "company_logo": "https://logo.clearbit.com/galgal.money",
+    "company_description": "Easy Habits\nEasy Money"
+  },
+  {
+    "company_link": "/company/storybrain",
+    "company_name": "StoryBrain",
+    "company_logo": "https://logo.clearbit.com/storybrain.com",
+    "company_description": "StoryBrain is an AI-powered visual content optimisation platform."
+  },
+  {
+    "company_link": "/company/atyantik",
+    "company_name": "Atyantik Technologies Pvt.",
+    "company_logo": "https://logo.clearbit.com/atyantik.com",
+    "company_description": "Delivering Excellance"
+  },
+  {
+    "company_link": "/company/suprdense",
+    "company_name": "Suprdense",
+    "company_logo": "https://www.google.com/s2/favicons?domain=suprdense.com&sz=128",
+    "company_description": "Brilliance for the backend of business."
+  },
+  {
+    "company_link": "/company/bigpodiium",
+    "company_name": "BigPodiium",
+    "company_logo": "https://www.google.com/s2/favicons?domain=bigpodiium.com&sz=128",
+    "company_description": "Driving Growth and Impact with power of Data, Content and Artificial Intelligence (AI)  "
+  },
+  {
+    "company_link": "/company/documenso",
+    "company_name": "Documenso",
+    "company_logo": "https://logo.clearbit.com/documenso.com",
+    "company_description": "Document signing, finally open source."
+  },
+  {
+    "company_link": "/company/makingtoday",
+    "company_name": "Making Today",
+    "company_logo": "https://www.google.com/s2/favicons?domain=making.today&sz=128",
+    "company_description": "Your All-In-One Dashboard : Organize, Plan & Do."
+  },
+  {
+    "company_link": "/company/snazzerra_apps",
+    "company_name": "Snazzerra Apps LLP",
+    "company_logo": "https://www.google.com/s2/favicons?domain=snazzerra.com&sz=128",
+    "company_description": "Easy & Attractive solutions to create an Era of technology driven world"
+  },
+  {
+    "company_link": "/company/webdoost",
+    "company_name": "Webdoost Solutions ",
+    "company_logo": "https://logo.clearbit.com/webdoost.net",
+    "company_description": "We\u2019re a team of creatives who are excited about unique ideas and help businesses to create amazing websites."
+  },
+  {
+    "company_link": "/company/buystocksdotai",
+    "company_name": "BuyStocks.ai",
+    "company_logo": "https://logo.clearbit.com/buystocks.ai",
+    "company_description": "BuyStocks.ai, founded by Irish trader Enda Cusack, offers thorough reviews and analyses of brokers and AI trading tools "
+  },
+  {
+    "company_link": "/company/identika",
+    "company_name": "Identika",
+    "company_logo": "https://logo.clearbit.com/identika.com",
+    "company_description": "Identika specializes in crafting bespoke marketing and advertising campaigns for commercial and government clients."
+  },
+  {
+    "company_link": "/company/tailoredai",
+    "company_name": "Tailored AI ",
+    "company_logo": "https://www.google.com/s2/favicons?domain=tailoredai.co&sz=128",
+    "company_description": "Scale Limitlessly, Effortlessly"
+  },
+  {
+    "company_link": "/company/aimletc",
+    "company_name": "AI ML etc. (Dedicated AI courses for senior IT professionals)",
+    "company_logo": "https://logo.clearbit.com/aimletc.com",
+    "company_description": "Dedicated AI and Gen AI courses for senior IT professionals"
+  },
+  {
+    "company_link": "/company/helmer",
+    "company_name": "Helmer",
+    "company_logo": "https://logo.clearbit.com/helmer.app",
+    "company_description": "The best screen-recording app for Windows and macOS."
+  },
+  {
+    "company_link": "/company/unitywealth",
+    "company_name": "unitywealth.ai",
+    "company_logo": "https://logo.clearbit.com/unitywealth.ai",
+    "company_description": "We're an early-stage Gen AI startup set to revolutionise productivity in financial services. "
+  },
+  {
+    "company_link": "/company/milkewaystudios",
+    "company_name": "Milk-E Way Studios",
+    "company_logo": "https://logo.clearbit.com/milk-eway.studio",
+    "company_description": "Unleashing the Power of the Digital Cosmos"
+  },
+  {
+    "company_link": "/company/bluehans",
+    "company_name": "BlueHans Design",
+    "company_logo": "https://www.google.com/s2/favicons?domain=bluehans.com&sz=128",
+    "company_description": "Pure & Mindful Elegance"
+  },
+  {
+    "company_link": "/company/openxyz",
+    "company_name": "OpenXYZ",
+    "company_logo": "https://www.google.com/s2/favicons?domain=openxyz.org&sz=128",
+    "company_description": "An open source organization that believes nobody can stop information insemination."
+  },
+  {
+    "company_link": "/company/freecodecamp",
+    "company_name": "freeCodeCamp",
+    "company_logo": "https://logo.clearbit.com/freecodecamp.org",
+    "company_description": "Learn to code \u2014 for free. Build projects. Earn certifications."
+  },
+  {
+    "company_link": "/company/eskimosoftware",
+    "company_name": "Eskimo Software",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Bringing you products like igloo.app, shakestation.io, and more."
+  },
+  {
+    "company_link": "/company/peppermint",
+    "company_name": "Peppermint Robotics",
+    "company_logo": "https://logo.clearbit.com/peppermintrobotics.com",
+    "company_description": "Automate mundane, repetitive workflows in commercial and industrial environments"
+  },
+  {
+    "company_link": "/company/param_ai",
+    "company_name": "Param.ai",
+    "company_logo": "https://logo.clearbit.com/param.ai",
+    "company_description": "Intelligent Recruiting Software Designed for Efficient Hiring"
+  },
+  {
+    "company_link": "/company/tc_nitt",
+    "company_name": "Technical Council, NIT Trichy",
+    "company_logo": "https://logo.clearbit.com/nitt.edu",
+    "company_description": "Technical Council is responsible for managing the techno-managerial affairs of NIT Trichy."
+  },
+  {
+    "company_link": "/company/countercyclical",
+    "company_name": "Countercyclical",
+    "company_logo": "https://logo.clearbit.com/countercyclical.io",
+    "company_description": "The definitive financial research and valuation platform built for modern value investors"
+  },
+  {
+    "company_link": "/company/clipmateai",
+    "company_name": "Clipmate AI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=clipmate.ai&sz=128",
+    "company_description": "Second brain for your bookmarks"
+  },
+  {
+    "company_link": "/company/singleinterface",
+    "company_name": "SingleInterface",
+    "company_logo": "https://logo.clearbit.com/singleinterface.com",
+    "company_description": "SingleInterface is a Location Management solution for retail brands that builds your digital presence, enhances local..."
+  },
+  {
+    "company_link": "/company/topcv",
+    "company_name": "TopCV",
+    "company_logo": "https://logo.clearbit.com/topcv.vn",
+    "company_description": "TopCV Vietnam \u2013 Leading the next generation of HR Tech"
+  },
+  {
+    "company_link": "/company/knowtechie",
+    "company_name": "KnowTechie",
+    "company_logo": "https://logo.clearbit.com/knowtechie.com",
+    "company_description": "KnowTechie is a blog for people who love tech but live outside the bubble. It's for the reader interested in technology "
+  },
+  {
+    "company_link": "/company/mahendravijayin",
+    "company_name": "Mahendravijay",
+    "company_logo": "https://logo.clearbit.com/mahendravijay.in",
+    "company_description": "A micro startup is focusing on products and services that upgrade your business"
+  },
+  {
+    "company_link": "/company/prelude",
+    "company_name": "Prelude",
+    "company_logo": "https://www.google.com/s2/favicons?domain=prelude.so&sz=128",
+    "company_description": "Advancing SMS verification infrastructure through a set of unified APIs developers might actually like"
+  },
+  {
+    "company_link": "/company/bitsave",
+    "company_name": "BitSave",
+    "company_logo": "https://logo.clearbit.com/bitsave.club",
+    "company_description": "Crypto Index Investing"
+  },
+  {
+    "company_link": "/company/razorpay",
+    "company_name": "Razorpay",
+    "company_logo": "https://logo.clearbit.com/razorpay.com",
+    "company_description": "Accept payments from customers. Automate payouts to vendors & employees. Never run out of working capital."
+  },
+  {
+    "company_link": "/company/ibs_dach",
+    "company_name": "Integrated Building Solutions",
+    "company_logo": "https://www.google.com/s2/favicons?domain=ib-solutions.org&sz=128",
+    "company_description": "Vom Entwurf bis zur Fertigstellung - Digitales Bauen in jeder Phase\nhttps://ib-solutions.org\nhttps://bauteile.live"
+  },
+  {
+    "company_link": "/company/coinbase",
+    "company_name": "Coinbase",
+    "company_logo": "https://logo.clearbit.com/coinbase.com",
+    "company_description": "increase economic freedom in the world"
+  },
+  {
+    "company_link": "/company/ainurcast",
+    "company_name": "Ainurcast",
+    "company_logo": "https://logo.clearbit.com/ainurcast.com",
+    "company_description": "Hosting, Distribution & Monetisation of Podcasts for Indian creators & brands."
+  },
+  {
+    "company_link": "/company/diligentcreator",
+    "company_name": "DiligentCreators",
+    "company_logo": "https://logo.clearbit.com/diligentcreators.com",
+    "company_description": "Grow Your Business with (dc) Diligent Creators"
+  },
+  {
+    "company_link": "/company/fansplug",
+    "company_name": "Fans Plug",
+    "company_logo": "https://logo.clearbit.com/fansplug.com",
+    "company_description": "Modern Music Marketing Agency"
+  },
+  {
+    "company_link": "/company/thelotterycorp",
+    "company_name": "The Lottery Corporation",
+    "company_logo": "https://logo.clearbit.com/thelotterycorporation.com",
+    "company_description": "Offering exciting games that deliver life-changing wins to customers and make a meaningful difference in the community."
+  },
+  {
+    "company_link": "/company/bigcrunch",
+    "company_name": "Bigcrunch",
+    "company_logo": "https://logo.clearbit.com/bigcrunch.co",
+    "company_description": "We specialize in web development, digital marketing, UI, UX, graphic design, branding identity. \ud83d\ude80"
+  },
+  {
+    "company_link": "/company/picehq",
+    "company_name": "Pice\u00ae",
+    "company_logo": "https://logo.clearbit.com/piceapp.com",
+    "company_description": "B2B Payments & Credit"
+  },
+  {
+    "company_link": "/company/namebase",
+    "company_name": "Namebase",
+    "company_logo": "https://logo.clearbit.com/namebase.io",
+    "company_description": "Making handshake domains easy-to-use to enable mass adoption."
+  },
+  {
+    "company_link": "/company/yesss",
+    "company_name": "Yesss Design",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "We design beautiful and functional B2B SaaS experiences"
+  },
+  {
+    "company_link": "/company/schuettflix",
+    "company_name": "Sch\u00fcttflix",
+    "company_logo": "https://logo.clearbit.com/schuettflix.com",
+    "company_description": "Die Plattform f\u00fcr die Ver- und Entsorgung auf der Baustelle"
+  },
+  {
+    "company_link": "/company/femundfilou",
+    "company_name": "Fem & Filou GbR",
+    "company_logo": "https://logo.clearbit.com/femundfilou.com",
+    "company_description": "Your friendly multidisciplinary creative studio."
+  },
+  {
+    "company_link": "/company/igebraai",
+    "company_name": "igebra.ai",
+    "company_logo": "https://logo.clearbit.com/igebra.ai",
+    "company_description": "Making Kids Ready for the AI World."
+  },
+  {
+    "company_link": "/company/getnovo",
+    "company_name": "Novo",
+    "company_logo": "https://logo.clearbit.com/novo.co",
+    "company_description": "The powerfully simple, award-winning banking platform for small businesses. Powered by Middlesex Federal Savings."
+  },
+  {
+    "company_link": "/company/tapwell",
+    "company_name": "TapWell",
+    "company_logo": "https://logo.clearbit.com/tapwell.in",
+    "company_description": "Corporate Gifting Company Mumbai"
+  },
+  {
+    "company_link": "/company/mondaymarketing",
+    "company_name": "Monday Marketing",
+    "company_logo": "https://www.google.com/s2/favicons?domain=mondaymarketing.today&sz=128",
+    "company_description": "Why start your Monday with blues? Instead, start with Monday Marketing!"
+  },
+  {
+    "company_link": "/company/techverito",
+    "company_name": "TechVerito",
+    "company_logo": "https://logo.clearbit.com/techverito.com",
+    "company_description": "At TechVerito we don't create softwares we craft it."
+  },
+  {
+    "company_link": "/company/shram_io",
+    "company_name": "Shram",
+    "company_logo": "https://logo.clearbit.com/shram.io",
+    "company_description": "Connect daily work with performance"
+  },
+  {
+    "company_link": "/company/proxwrks",
+    "company_name": "Proximity Works",
+    "company_logo": "https://logo.clearbit.com/proximity.tech",
+    "company_description": "Your business is growing. will your tech catch up?"
+  },
+  {
+    "company_link": "/company/wiingy",
+    "company_name": "Wiingy",
+    "company_logo": "https://logo.clearbit.com/wiingy.com",
+    "company_description": "Wiingy - Better Tutors Better Results"
+  },
+  {
+    "company_link": "/company/ngcomma",
+    "company_name": "NgComma",
+    "company_logo": "https://www.google.com/s2/favicons?domain=ngcomma.io&sz=128",
+    "company_description": "A company built by Angular passionate developers."
+  },
+  {
+    "company_link": "/company/dayforce",
+    "company_name": "Dayforce",
+    "company_logo": "https://logo.clearbit.com/dayforce.com",
+    "company_description": "Dayforce, formerly Ceridian, is a provider of human resources software and services."
+  },
+  {
+    "company_link": "/company/productpickle",
+    "company_name": "Productpickle",
+    "company_logo": "https://www.google.com/s2/favicons?domain=productpickle.com&sz=128",
+    "company_description": "The #1 product management subscription and design service for software companies, agencies, startups, and entrepreneurs."
+  },
+  {
+    "company_link": "/company/bizowl",
+    "company_name": "BIZOWL",
+    "company_logo": "https://logo.clearbit.com/bizzowl.com",
+    "company_description": "An Online Platform for Services, Tools, Resources and Guidance for Starting and Growing Businesses. "
+  },
+  {
+    "company_link": "/company/aiworldtoday",
+    "company_name": "AI World Today",
+    "company_logo": "https://www.google.com/s2/favicons?domain=aiworldtoday.net&sz=128",
+    "company_description": "AI World Today is focused on providing the latest news, insights, and updates on AI tools and technologies."
+  },
+  {
+    "company_link": "/company/porada_app",
+    "company_name": "Porada.app",
+    "company_logo": "https://www.google.com/s2/favicons?domain=porada.app&sz=128",
+    "company_description": "Mentoring platform where mentors and consultants could find a busines"
+  },
+  {
+    "company_link": "/company/agrit_tiwari",
+    "company_name": "Tractor Junction",
+    "company_logo": "https://logo.clearbit.com/tractorjunction.com",
+    "company_description": "Engineer at a Startup"
+  },
+  {
+    "company_link": "/company/techbrewers",
+    "company_name": "Club TechBrewers",
+    "company_logo": "https://logo.clearbit.com/techbrewers.org",
+    "company_description": "Learn. Connect. Build"
+  },
+  {
+    "company_link": "/company/tydyco",
+    "company_name": "Tydy",
+    "company_logo": "https://logo.clearbit.com/tydy.co",
+    "company_description": "An employee data platform that enables People Ops teams automate workflows for Compliance, Verification and Onboarding"
+  },
+  {
+    "company_link": "/company/reliance",
+    "company_name": "Reliance Industries Limited",
+    "company_logo": "https://logo.clearbit.com/ril.com",
+    "company_description": "Reliance Industries Limited is a Fortune 500\u00ae company and the largest private sector corporation in India."
+  },
+  {
+    "company_link": "/company/humanizerme",
+    "company_name": "Humanizer",
+    "company_logo": "https://logo.clearbit.com/humanizer.me",
+    "company_description": "Activate with you voice the power of AI"
+  },
+  {
+    "company_link": "/company/imgcentury",
+    "company_name": "IMGCentury",
+    "company_logo": "https://www.google.com/s2/favicons?domain=imgcentury.com&sz=128",
+    "company_description": "Next-gen Image Compressor Online Tool."
+  },
+  {
+    "company_link": "/company/lancepilot",
+    "company_name": "LancePilot",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "World's First Meta Compliant WhatsApp Cold Outreaching Tool \ud83d\ude80"
+  },
+  {
+    "company_link": "/company/partnest",
+    "company_name": "PartNest",
+    "company_logo": "https://logo.clearbit.com/partnest.io",
+    "company_description": "Business Driven Solutions, Optimized for Flow"
+  },
+  {
+    "company_link": "/company/kibele",
+    "company_name": "Kibele",
+    "company_logo": "https://logo.clearbit.com/kibele.co",
+    "company_description": "Crafting solutions for startups and brands."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Shri Property",
+    "company_logo": "https://www.google.com/s2/favicons?domain=shriproperty.com&sz=128",
+    "company_description": "Live in Your Dreams"
+  },
+  {
+    "company_link": "/company/icustomsai",
+    "company_name": "iCustoms",
+    "company_logo": "https://logo.clearbit.com/icustoms.ai",
+    "company_description": "Global Trade Compliance Software"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Beacon",
+    "company_logo": "https://logo.clearbit.com/getwindo.com",
+    "company_description": "The only AI Product Assistant you need!"
+  },
+  {
+    "company_link": "/company/crezam",
+    "company_name": "Crezam",
+    "company_logo": "https://logo.clearbit.com/crezam.com",
+    "company_description": "Your AI-Powered Talent Partner"
+  },
+  {
+    "company_link": "/company/wiremin",
+    "company_name": "WireMin",
+    "company_logo": "https://logo.clearbit.com/wiremin.org",
+    "company_description": "WireMin is A Decentralized Social Network that Empowers Everyone to Own Complete Freedom and Privacy."
+  },
+  {
+    "company_link": "/company/maximai",
+    "company_name": "Maxim AI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=getmaxim.ai&sz=128",
+    "company_description": "Maxim AI is a unified testing and monitoring framework for AI-powered applications. Maxim's end-to-end evaluation stack "
+  },
+  {
+    "company_link": "/company/inroapp",
+    "company_name": "Inr\u014d",
+    "company_logo": "https://www.google.com/s2/favicons?domain=inro.social&sz=128",
+    "company_description": "Your AI-Powered Instagram Co-Pilot for DM Marketing"
+  },
+  {
+    "company_link": "/company/bimakavach",
+    "company_name": "BimaKavach",
+    "company_logo": "https://logo.clearbit.com/bimakavach.com",
+    "company_description": "Business Insurance, made simple."
+  },
+  {
+    "company_link": "/company/aptex",
+    "company_name": "Aptex",
+    "company_logo": "https://logo.clearbit.com/aptex.de",
+    "company_description": "#wirmachensoftware"
+  },
+  {
+    "company_link": "/company/timesbridge",
+    "company_name": "Times Bridge",
+    "company_logo": "https://logo.clearbit.com/timesbridge.com",
+    "company_description": "Times Bridge manages end-to-end India operations for Business Insider and few more."
+  },
+  {
+    "company_link": "/company/complyance",
+    "company_name": "Complyance.io",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Powering Business Efficiency with E-Invoicing for Leaders Across Industries"
+  },
+  {
+    "company_link": "/company/conceptweb",
+    "company_name": "Concept'Web",
+    "company_logo": "https://www.google.com/s2/favicons?domain=conceptweb.agency&sz=128",
+    "company_description": " Agence Web bas\u00e9e sur Albi, sp\u00e9cialis\u00e9 dans la conception de sites web et de r\u00e9f\u00e9rencement SEO."
+  },
+  {
+    "company_link": "/company/vilsai",
+    "company_name": "VILS AI",
+    "company_logo": "https://logo.clearbit.com/vils.ai",
+    "company_description": "VILS AIT provides innovative solutions that leverage Behavioral Intelligence to transform student success and revolution"
+  },
+  {
+    "company_link": "/company/alegance",
+    "company_name": "Alegance",
+    "company_logo": "https://logo.clearbit.com/alegance.io",
+    "company_description": "Crafting top-tier AI-centric applications for Web & Cloud. "
+  },
+  {
+    "company_link": "/company/vidpro",
+    "company_name": "VidPro: Your Ultimate Talent Partner",
+    "company_logo": "https://logo.clearbit.com/vidpro.in",
+    "company_description": "Your Ultimate Talent Partner"
+  },
+  {
+    "company_link": "/company/tisteps",
+    "company_name": "ti steps",
+    "company_logo": "https://logo.clearbit.com/tisteps.co",
+    "company_description": "ti steps is a forward-thinking product company with a mission to bridge the talent gap and prepare the next generation f"
+  },
+  {
+    "company_link": "/company/dynasas",
+    "company_name": "Dynasas",
+    "company_logo": "https://logo.clearbit.com/dynasas.com",
+    "company_description": "Where technology and innovation go hand in hand."
+  },
+  {
+    "company_link": "/company/cereble",
+    "company_name": "Cereble",
+    "company_logo": "https://logo.clearbit.com/cereble.com",
+    "company_description": "Cereble designs consumer electronics and software for Sports and Healthcare.\nProduct: https://fundook.io"
+  },
+  {
+    "company_link": "/company/fractalgrid",
+    "company_name": "Fractal Grid",
+    "company_logo": "https://www.google.com/s2/favicons?domain=fractalgrid.co&sz=128",
+    "company_description": "Fractal Grid is a Houston-based Design Studio empowering startups and growing businesses with impactful design solutions"
+  },
+  {
+    "company_link": "/company/salesforce",
+    "company_name": "Salesforce",
+    "company_logo": "https://logo.clearbit.com/salesforce.com",
+    "company_description": "World's best AI + CRM"
+  },
+  {
+    "company_link": "/company/vexio",
+    "company_name": "Vexio",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": " AI-driven conversational shopping experiences "
+  },
+  {
+    "company_link": "/company/scaler",
+    "company_name": "Scaler",
+    "company_logo": "https://logo.clearbit.com/scaler.com",
+    "company_description": "Create Impact"
+  },
+  {
+    "company_link": "/company/trackr",
+    "company_name": "TrackR",
+    "company_logo": "https://logo.clearbit.com/trackr.co.in",
+    "company_description": "Find your loved ones anywhere, anytime!"
+  },
+  {
+    "company_link": "/company/vconstruct",
+    "company_name": "vConstruct Pvt Ltd",
+    "company_logo": "https://logo.clearbit.com/vconstruct.com",
+    "company_description": "Innovation through technology in construction"
+  },
+  {
+    "company_link": "/company/softlancer",
+    "company_name": "Softlancer",
+    "company_logo": "https://www.google.com/s2/favicons?domain=softlancer.co&sz=128",
+    "company_description": "Softlancer builds MVPs for startups saving'em from technical debts and long running development cycles."
+  },
+  {
+    "company_link": "/company/lifexpress",
+    "company_name": "Life Xpress Uganda",
+    "company_logo": "https://logo.clearbit.com/lifexpress.bi",
+    "company_description": "A one-stop shop for technical services"
+  },
+  {
+    "company_link": "/company/goremoteafrica",
+    "company_name": "GoRemote Africa",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Connecting Talented Africans to Global Remote Opportunities, Hassle-free!"
+  },
+  {
+    "company_link": "/company/cultfit",
+    "company_name": "cult.fit",
+    "company_logo": "https://logo.clearbit.com/cult.fit",
+    "company_description": "#BeBetterEveryDay"
+  },
+  {
+    "company_link": "/company/elitecoders",
+    "company_name": "EliteCoders",
+    "company_logo": "https://logo.clearbit.com/elitecoders.co",
+    "company_description": "We are a team of global coding experts, eager to solve your most challenging project needs."
+  },
+  {
+    "company_link": "/company/tokin",
+    "company_name": "Tokin",
+    "company_logo": "https://www.google.com/s2/favicons?domain=tokin.video&sz=128",
+    "company_description": "Videos people love."
+  },
+  {
+    "company_link": "/company/thegrowththrive",
+    "company_name": "The Growth Thrive",
+    "company_logo": "https://logo.clearbit.com/growthrive.in",
+    "company_description": "Grow Smarter with The Growth Thrive "
+  },
+  {
+    "company_link": "/company/jolworks",
+    "company_name": "Jol",
+    "company_logo": "https://logo.clearbit.com/jol.works",
+    "company_description": "On Jol, you can hire remote freelancers on demand and pay only for what's delivered."
+  },
+  {
+    "company_link": "/company/haizoen",
+    "company_name": "Haizoen",
+    "company_logo": "https://www.google.com/s2/favicons?domain=haizoen.com&sz=128",
+    "company_description": "Haizoen, /hi-zun/; beyond the buzz, beyond the craze, build Zen-like success in a data daze."
+  },
+  {
+    "company_link": "/company/witaristit",
+    "company_name": "WitArist",
+    "company_logo": "https://logo.clearbit.com/witarist.com",
+    "company_description": "Hire Immediate Developers - React Js, Node Js, Next Js, Java, Flutter, .Net and 1000+ skill developers on bench."
+  },
+  {
+    "company_link": "/company/tothetrains",
+    "company_name": "To The Trains",
+    "company_logo": "https://logo.clearbit.com/tothetrains.uk",
+    "company_description": "Documenting Britian's railways through comprehensive videos and articles on everything from rolling stock to routes."
+  },
+  {
+    "company_link": "/company/add2cal",
+    "company_name": "Add to Calendar PRO",
+    "company_logo": "https://logo.clearbit.com/add-to-calendar-pro.com",
+    "company_description": "Better Event Marketing and Sharing"
+  },
+  {
+    "company_link": "/company/nuclei",
+    "company_name": "Nuclei",
+    "company_logo": "https://logo.clearbit.com/gonuclei.com",
+    "company_description": "Builds Consumer tech DNA"
+  },
+  {
+    "company_link": "/company/xperian",
+    "company_name": "Xperian School",
+    "company_logo": "https://logo.clearbit.com/xperianschool.com",
+    "company_description": "A place to harness \"real\" skills in Digital Product Design, AI & No-Code."
+  },
+  {
+    "company_link": "/company/pixellion",
+    "company_name": "Pixellion",
+    "company_logo": "https://logo.clearbit.com/pixelliongroup.com",
+    "company_description": "Everyone deserves a better services"
+  },
+  {
+    "company_link": "/company/longpath",
+    "company_name": "Long Path Partners",
+    "company_logo": "https://logo.clearbit.com/longpathpartners.com",
+    "company_description": "Privately-owned investment firm that seeks to compound capital investing in a limited number of outstanding businesses"
+  },
+  {
+    "company_link": "/company/cloock",
+    "company_name": "Cloock",
+    "company_logo": "https://www.google.com/s2/favicons?domain=cloock.co&sz=128",
+    "company_description": "Cloock mostly helps people who work at a computer manage their time better and be more productive."
+  },
+  {
+    "company_link": "/company/uiflip",
+    "company_name": "UI Flip",
+    "company_logo": "https://www.google.com/s2/favicons?domain=uiflip.com&sz=128",
+    "company_description": "The Product & Web Design Partner for SaaS, Fintech and AI Startups, Venture Studios and Creative Agencies"
+  },
+  {
+    "company_link": "/company/delta",
+    "company_name": "Delta Exchange",
+    "company_logo": "https://logo.clearbit.com/delta.exchange",
+    "company_description": "Delta Exchange is a high-performance digital asset derivatives exchange.\n"
+  },
+  {
+    "company_link": "/company/tessact",
+    "company_name": "Tessact",
+    "company_logo": "https://logo.clearbit.com/tessact.com",
+    "company_description": "An AI-powered video creation suite for the people of video"
+  },
+  {
+    "company_link": "/company/qualitician",
+    "company_name": "Qualitician",
+    "company_logo": "https://logo.clearbit.com/qualitician.com",
+    "company_description": "QA Job Board To Help Connect Software Testing Talent With Hiring Teams."
+  },
+  {
+    "company_link": "/company/rupeek",
+    "company_name": "Rupeek",
+    "company_logo": "https://logo.clearbit.com/rupeek.com",
+    "company_description": "Easy & hassle-free gold loans"
+  },
+  {
+    "company_link": "/company/cooperhire",
+    "company_name": "CooperHire",
+    "company_logo": "https://logo.clearbit.com/cooperhire.io",
+    "company_description": "Transforming visions into teams"
+  },
+  {
+    "company_link": "/company/octobot",
+    "company_name": "OctoBot",
+    "company_logo": "https://logo.clearbit.com/octobot.cloud",
+    "company_description": "Automate your crypto investments with ease"
+  },
+  {
+    "company_link": "/company/armani",
+    "company_name": "Armani English",
+    "company_logo": "https://logo.clearbit.com/armanienglish.com",
+    "company_description": "The future begins now..."
+  },
+  {
+    "company_link": "/company/frontendhire",
+    "company_name": "Frontend Hire",
+    "company_logo": "https://www.google.com/s2/favicons?domain=frontendhire.com&sz=128",
+    "company_description": "We are solving Frontend Interviews and Hiring."
+  },
+  {
+    "company_link": "/company/vistaweb",
+    "company_name": "Vista Web Ltd.",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Crafting innovative digital solutions.\nLet's elevate your online success together."
+  },
+  {
+    "company_link": "/company/thinkgrid",
+    "company_name": "Thinkgrid Labs",
+    "company_logo": "https://logo.clearbit.com/thinkgrid.io",
+    "company_description": "Navigating the Future of Business and Governmentwith Impactful Digital Solutions"
+  },
+  {
+    "company_link": "/company/joinveet",
+    "company_name": "Veet",
+    "company_logo": "https://logo.clearbit.com/joinveet.com",
+    "company_description": "Veet is a community-driven mentorship platform where tech professionals can find, book, and meet mentors worldwide"
+  },
+  {
+    "company_link": "/company/superhand",
+    "company_name": "Superhand",
+    "company_logo": "https://www.google.com/s2/favicons?domain=superhand.io&sz=128",
+    "company_description": "The global opportunity platform to connect, earn and grow."
+  },
+  {
+    "company_link": "/company/mekari",
+    "company_name": "Mekari",
+    "company_logo": "https://logo.clearbit.com/mekari.com",
+    "company_description": "Business platform"
+  },
+  {
+    "company_link": "/company/whiteframe",
+    "company_name": "WhiteFrame Creative",
+    "company_logo": "https://www.google.com/s2/favicons?domain=whiteframe.agency&sz=128",
+    "company_description": "WhiteFrame is a top-tier web design agency specializing in creating and delivering innovative websites and products. "
+  },
+  {
+    "company_link": "/company/signify",
+    "company_name": "Signify",
+    "company_logo": "https://logo.clearbit.com/signify.com",
+    "company_description": "Signify is the new company name of Philips Lighting. We are the world leader in lighting and provide our customers with "
+  },
+  {
+    "company_link": "/company/roadtocode4u",
+    "company_name": "Road To Code",
+    "company_logo": "https://logo.clearbit.com/roadtocode.org",
+    "company_description": "Quality courses at affordable pricing, trusted by 2000+ students."
+  },
+  {
+    "company_link": "/company/kadimadigital",
+    "company_name": "Kadima Digital",
+    "company_logo": "https://logo.clearbit.com/kadimadigital.com",
+    "company_description": "Future-proofing Brands in a Digital Reality"
+  },
+  {
+    "company_link": "/company/roadmap",
+    "company_name": "roadmap.sh",
+    "company_logo": "https://logo.clearbit.com/roadmap.sh",
+    "company_description": "Community driven roadmaps, guides and visual content for teams and developers."
+  },
+  {
+    "company_link": "/company/codingo",
+    "company_name": "Codingo LTD",
+    "company_logo": "https://logo.clearbit.com/codingo.me",
+    "company_description": "Professional SaaS development agency."
+  },
+  {
+    "company_link": "/company/streamcord",
+    "company_name": "Streamcord",
+    "company_logo": "https://logo.clearbit.com/streamcord.io",
+    "company_description": "Driving engagement for online content creators through social media."
+  },
+  {
+    "company_link": "/company/usetria",
+    "company_name": "Tria (Prev. Threely)",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "One name, all things Web3"
+  },
+  {
+    "company_link": "/company/nhcarrigan",
+    "company_name": "nhcarrigan",
+    "company_logo": "https://logo.clearbit.com/nhcarrigan.com",
+    "company_description": "Software Development and Community Management consulting firm"
+  },
+  {
+    "company_link": "/company/arkyv",
+    "company_name": "Arkyv",
+    "company_logo": "https://www.google.com/s2/favicons?domain=arkyv.design&sz=128",
+    "company_description": "Designing interfaces, improving experiences and thinking strategically to craft even better products and services."
+  },
+  {
+    "company_link": "/company/plutolinks",
+    "company_name": "Plutolinks",
+    "company_logo": "https://logo.clearbit.com/plutolinks.com",
+    "company_description": "Short links manager with awesome analytics."
+  },
+  {
+    "company_link": "/company/rnapp",
+    "company_name": "RNAPP.DEV",
+    "company_logo": "https://www.google.com/s2/favicons?domain=rnapp.dev&sz=128",
+    "company_description": "Cross Platform Mobile app development company"
+  },
+  {
+    "company_link": "/company/mabnadp",
+    "company_name": "Mabna DP",
+    "company_logo": "https://logo.clearbit.com/mabnadp.com",
+    "company_description": "Mabna DP is a privately held software development company in Iran."
+  },
+  {
+    "company_link": "/company/northernstar",
+    "company_name": "Northern Star Scouting",
+    "company_logo": "https://logo.clearbit.com/northernstar.org",
+    "company_description": "Northern Star prepares youth in a safe and inclusive environment to be leaders and individuals of strong character."
+  },
+  {
+    "company_link": "/company/hoomans",
+    "company_name": "Hoomans Co.",
+    "company_logo": "https://logo.clearbit.com/hoomans.dev",
+    "company_description": "We are a small group of hoomans who believe in the betterment of the hoomans around us through arts & technology. "
+  },
+  {
+    "company_link": "/company/webbycrown",
+    "company_name": "WebbyCrown Solutions",
+    "company_logo": "https://logo.clearbit.com/webbycrown.com",
+    "company_description": "Your Challenge, Our Expertise: Together, We Solve"
+  },
+  {
+    "company_link": "/company/zenadmin",
+    "company_name": "ZenAdmin",
+    "company_logo": "https://logo.clearbit.com/hybr1d.io",
+    "company_description": "End to end employee management platform"
+  },
+  {
+    "company_link": "/company/elara",
+    "company_name": "Elara Digital",
+    "company_logo": "https://logo.clearbit.com/getelara.de",
+    "company_description": "Elara offers a simple and intuitive user interface for maintenance teams optimized for tablets and smartphones."
+  },
+  {
+    "company_link": "/company/kassebil",
+    "company_name": "Kassebil.dk",
+    "company_logo": "https://logo.clearbit.com/kassebil.dk",
+    "company_description": "Kassebil.dk offers van leasing"
+  },
+  {
+    "company_link": "/company/titantf",
+    "company_name": "Titan.TF",
+    "company_logo": "https://logo.clearbit.com/titan.tf",
+    "company_description": "Delivering a diverse range of original, custom and continuously evolving Team Fortress 2 experiences for 450k players \u2014 "
+  },
+  {
+    "company_link": "/company/nissispace",
+    "company_name": "NissiSpace",
+    "company_logo": "https://www.google.com/s2/favicons?domain=nissispace.com&sz=128",
+    "company_description": "Nissi is an all-in-one online learning management solution."
+  },
+  {
+    "company_link": "/company/intacht",
+    "company_name": "InTacht Labs",
+    "company_logo": "https://logo.clearbit.com/intacht.com",
+    "company_description": "Building The Next Generation of Internet Technologies"
+  },
+  {
+    "company_link": "/company/niftycode",
+    "company_name": "Nifty Code.",
+    "company_logo": "https://logo.clearbit.com/niftycodedev.com",
+    "company_description": "Shopify, Ecommerce, UI/UX, Full-Stack Development, Website Development, WordPress, Website Design, SASS, and Web App."
+  },
+  {
+    "company_link": "/company/inkoop",
+    "company_name": "Inkoop",
+    "company_logo": "https://logo.clearbit.com/inkoop.io",
+    "company_description": "We build products that users love"
+  },
+  {
+    "company_link": "/company/algouniversity",
+    "company_name": "AlgoUniversity",
+    "company_logo": "https://logo.clearbit.com/algouniversity.com",
+    "company_description": "Building Job-driven Virtual Tech University for India"
+  },
+  {
+    "company_link": "/company/wherenext",
+    "company_name": "WhereNext Experiences",
+    "company_logo": "https://logo.clearbit.com/wherenext.to",
+    "company_description": "WhereNext Experiences is a travel experience marketplace for Adventure and Volunteer travel across the world."
+  },
+  {
+    "company_link": "/company/accunai",
+    "company_name": "Accunai",
+    "company_logo": "https://logo.clearbit.com/accunai.com",
+    "company_description": "Helping Companies Implement AI Faster With Accuracy"
+  },
+  {
+    "company_link": "/company/astreak",
+    "company_name": "Astreak",
+    "company_logo": "https://www.google.com/s2/favicons?domain=astreak.in&sz=128",
+    "company_description": "Revolutionize Your Operations with Astreak"
+  },
+  {
+    "company_link": "/company/thinklink",
+    "company_name": "ThinkLink",
+    "company_logo": "https://logo.clearbit.com/thinklink.io",
+    "company_description": "A digital product studio based in Toronto primarily focused on enabling unified cyber risk management for SMBs."
+  },
+  {
+    "company_link": "/company/vendtrakvms",
+    "company_name": "VendTrakVMS",
+    "company_logo": "https://logo.clearbit.com/vendtrakvms.com",
+    "company_description": "Vending Management System"
+  },
+  {
+    "company_link": "/company/aionlinecourse",
+    "company_name": "AI Online Course",
+    "company_logo": "https://logo.clearbit.com/aionlinecourse.com",
+    "company_description": "Aionlinecourse is an education platform \u2013 where AI mastery begins!"
+  },
+  {
+    "company_link": "/company/iconic",
+    "company_name": "Iconic Technologie",
+    "company_logo": "https://logo.clearbit.com/iconictechnologie.com",
+    "company_description": "Digital agency"
+  },
+  {
+    "company_link": "/company/bulkbeings",
+    "company_name": "BulkBeings",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Igniting the future with the transformative power of AI"
+  },
+  {
+    "company_link": "/company/aaany",
+    "company_name": "AAANY Limited",
+    "company_logo": "https://www.google.com/s2/favicons?domain=aaany.app&sz=128",
+    "company_description": "Your cozy corner for 'Ask Me Anything', and a portal where you can showcase the highlights of your digital content."
+  },
+  {
+    "company_link": "/company/senseyai",
+    "company_name": "Sensey AI",
+    "company_logo": "https://logo.clearbit.com/sensey.ai",
+    "company_description": "Sensey: Outsmart the competition"
+  },
+  {
+    "company_link": "/company/tempestronics",
+    "company_name": "Tempestronics",
+    "company_logo": "https://logo.clearbit.com/tempestronics.com",
+    "company_description": "Tempestronics is an app development startup by Saifur Rahman Mohsin. I work full-time as a freelance thro' Tempestronics"
+  },
+  {
+    "company_link": "/company/ixyrmedia",
+    "company_name": "iXyr Media",
+    "company_logo": "https://logo.clearbit.com/ixyr.media",
+    "company_description": "Building for the Web, Since 2002"
+  },
+  {
+    "company_link": "/company/supportlogic",
+    "company_name": "SupportLogic",
+    "company_logo": "https://logo.clearbit.com/supportlogic.com",
+    "company_description": "Unified Observability for all Post-Sales Customer Interactions"
+  },
+  {
+    "company_link": "/company/genapi",
+    "company_name": "GenAPI.co",
+    "company_logo": "https://www.google.com/s2/favicons?domain=genapi.co&sz=128",
+    "company_description": "From idea to Production API in minutes"
+  },
+  {
+    "company_link": "/company/ibmcorp",
+    "company_name": "IBM",
+    "company_logo": "https://logo.clearbit.com/ibm.com",
+    "company_description": "The International Business Machines Corporation, nicknamed Big Blue, is an American multinational technology corporation"
+  },
+  {
+    "company_link": "/company/ruttl",
+    "company_name": "ruttl",
+    "company_logo": "https://logo.clearbit.com/ruttl.com",
+    "company_description": "The Fastest Design Collaboration Software"
+  },
+  {
+    "company_link": "/company/socifinite",
+    "company_name": "Socifinite",
+    "company_logo": "https://logo.clearbit.com/socifinite.com",
+    "company_description": "Your bespoke Facebook Ads Agency for Ecommerce Brands."
+  },
+  {
+    "company_link": "/company/cloudtechlc",
+    "company_name": "CloudTech LLC (MA based)",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Insights on cloud technology, consulting, and leadership"
+  },
+  {
+    "company_link": "/company/allendigital",
+    "company_name": "ALLEN Digital",
+    "company_logo": "https://logo.clearbit.com/allen.in",
+    "company_description": "Path to Success"
+  },
+  {
+    "company_link": "/company/reeach",
+    "company_name": "Reeach.one",
+    "company_logo": "https://logo.clearbit.com/reeach.one",
+    "company_description": "Simplify creator and brand collaborations. Trusted by top brands. Essential for your success. Just a few clicks away!"
+  },
+  {
+    "company_link": "/company/whophq",
+    "company_name": "Whop",
+    "company_logo": "https://logo.clearbit.com/whop.com",
+    "company_description": "A marketplace for really cool internet products"
+  },
+  {
+    "company_link": "/company/pinely",
+    "company_name": "Pinely International",
+    "company_logo": "https://logo.clearbit.com/pinely.eu",
+    "company_description": "We turn \u201cmaybe someday\u201d dreams into \u201ccheck this out\u201d realities."
+  },
+  {
+    "company_link": "/company/segmentfault",
+    "company_name": "SegmentFault \u601d\u5426",
+    "company_logo": "https://logo.clearbit.com/segmentfault.com",
+    "company_description": "China's leading software developer Q&A community"
+  },
+  {
+    "company_link": "/company/folkapp",
+    "company_name": "folk",
+    "company_logo": "https://logo.clearbit.com/folk.app",
+    "company_description": "All-in-one CRM, one tool for all your relationships"
+  },
+  {
+    "company_link": "/company/avdevsslutions",
+    "company_name": "AV DEVS solutions",
+    "company_logo": "https://logo.clearbit.com/avdevs.com",
+    "company_description": "Agile Vision Developers"
+  },
+  {
+    "company_link": "/company/100ms",
+    "company_name": "100ms",
+    "company_logo": "https://logo.clearbit.com/100ms.live",
+    "company_description": "Easy-to-integrate SDKs and interactivity APIs to help you create high quality audio/video experiences."
+  },
+  {
+    "company_link": "/company/clappit_ai",
+    "company_name": "Clappit",
+    "company_logo": "https://logo.clearbit.com/clappit.io",
+    "company_description": "Effortlessly expand your apps across the clouds."
+  },
+  {
+    "company_link": "/company/herkord",
+    "company_name": "Herkord",
+    "company_logo": "https://www.google.com/s2/favicons?domain=herkord.com&sz=128",
+    "company_description": "We are a full experienced team of developers, designers and marketers."
+  },
+  {
+    "company_link": "/company/vedvaani",
+    "company_name": "VedVaani - AI Astrology and Spiritual Guide",
+    "company_logo": "https://logo.clearbit.com/vedvaani.in",
+    "company_description": "Chat with AI Astrologer, Numerologist, Tarot Card Reader, Palm & Face Reader!"
+  },
+  {
+    "company_link": "/company/trilogy",
+    "company_name": "Trilogy",
+    "company_logo": "https://logo.clearbit.com/trilogy.com",
+    "company_description": "Trilogy is to software companies what a great orchestra is to symphonies. You\u2019ll want your sound on for this."
+  },
+  {
+    "company_link": "/company/wisdomcircle",
+    "company_name": "WisdomCircle",
+    "company_logo": "https://logo.clearbit.com/wisdomcircle.com",
+    "company_description": "WisdomCircle is a global platform that connects retired professionals to meaningful opportunities."
+  },
+  {
+    "company_link": "/company/cpdtracker",
+    "company_name": "PD able",
+    "company_logo": "https://www.google.com/s2/favicons?domain=pdable.com&sz=128",
+    "company_description": "The ultimate Professional Development CPD tracking software"
+  },
+  {
+    "company_link": "/company/ftlfinance",
+    "company_name": "FTL Finance",
+    "company_logo": "https://logo.clearbit.com/ftlfinance.com",
+    "company_description": "Consuming lending made simple and smart."
+  },
+  {
+    "company_link": "/company/genpen",
+    "company_name": "GenPen AI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=genpen.ai&sz=128",
+    "company_description": "Artificial Generative Technologies uses state of the art LLM/LMM technology, and highly scalable code generation techniq"
+  },
+  {
+    "company_link": "/company/arleven",
+    "company_name": "Arleven Softwares",
+    "company_logo": "https://www.google.com/s2/favicons?domain=arleven.com&sz=128",
+    "company_description": "Making the world a better place."
+  },
+  {
+    "company_link": "/company/designfrens",
+    "company_name": "Designfrens",
+    "company_logo": "https://www.google.com/s2/favicons?domain=designfrens.com&sz=128",
+    "company_description": "Helping companies find & hire the right designer on a streamlined process"
+  },
+  {
+    "company_link": "/company/carameet",
+    "company_name": "Carameet",
+    "company_logo": "https://logo.clearbit.com/carameet.com",
+    "company_description": "10X cheaper way to collect and analyze data at offline events"
+  },
+  {
+    "company_link": "/company/buyorskip",
+    "company_name": "Buy or Skip",
+    "company_logo": "https://logo.clearbit.com/buyorskip.tech",
+    "company_description": "Curated collections of SaaS tools with Detailed Reviews, Comparison, Insights & AI-Powered Recommendations"
+  },
+  {
+    "company_link": "/company/kvtmedia",
+    "company_name": "KV TechMedia",
+    "company_logo": "https://logo.clearbit.com/kvtmedia.com",
+    "company_description": "KV Tech Media is a full-service digital marketing agency and web design & development firm that serves businesses and in"
+  },
+  {
+    "company_link": "/company/cogniplay",
+    "company_name": "cogniplay",
+    "company_logo": "https://www.google.com/s2/favicons?domain=cogniplay.in&sz=128",
+    "company_description": "Maximize Your Influence, Showcase and Thrive"
+  },
+  {
+    "company_link": "/company/skilledupife",
+    "company_name": "SkilledUp Life",
+    "company_logo": "https://logo.clearbit.com/skilledup.life",
+    "company_description": "SkilledUp Life is a two-sided market place where 43,000+ skilled volunteers meet hundreds of early-stage tech companies "
+  },
+  {
+    "company_link": "/company/changingday",
+    "company_name": "Changingday",
+    "company_logo": "https://logo.clearbit.com/changingday.com",
+    "company_description": "VR for autism. Our first game BLINNK and the Vacuum of Space is a galactic VR adventure designed for autistic players."
+  },
+  {
+    "company_link": "/company/truffles",
+    "company_name": "Truffles AI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=truffles.ai&sz=128",
+    "company_description": "Automate business workflows with Truffles AI."
+  },
+  {
+    "company_link": "/company/sanerai",
+    "company_name": "Saner.AI",
+    "company_logo": "https://logo.clearbit.com/saner.ai",
+    "company_description": "Your Simple yet Powerful AI Note-taking app - capture, find, and develop ideas without context switching"
+  },
+  {
+    "company_link": "/company/defter",
+    "company_name": "Defter",
+    "company_logo": "https://logo.clearbit.com/birdefter.com",
+    "company_description": "Empowering Businesses with Customizable CRM Solutions for Smarter Connections."
+  },
+  {
+    "company_link": "/company/recaststudio",
+    "company_name": "Recast Studio",
+    "company_logo": "https://logo.clearbit.com/recast.studio",
+    "company_description": "AI-powered Podcast Marketing Assistant"
+  },
+  {
+    "company_link": "/company/saifahev",
+    "company_name": "Saifah EV",
+    "company_logo": "https://www.google.com/s2/favicons?domain=saifah.app&sz=128",
+    "company_description": "Saifah is an application that helps users easily and accurately plan their journeys with EVs in Thailand."
+  },
+  {
+    "company_link": "/company/remoteusjobs",
+    "company_name": "Remote US Jobs",
+    "company_logo": "https://www.google.com/s2/favicons?domain=remoteusjobs.co&sz=128",
+    "company_description": "Your premium source for curated remote job opportunities tailored exclusively for individuals living in the US."
+  },
+  {
+    "company_link": "/company/hypebrand",
+    "company_name": "Hypebrand\u00ae Private Limited",
+    "company_logo": "https://logo.clearbit.com/hypebrands.in",
+    "company_description": "Enterprise IT Solutions | Cloud Architecture Management | Brand & Digital Experience "
+  },
+  {
+    "company_link": "/company/zestream",
+    "company_name": "ZeStream",
+    "company_logo": "https://www.google.com/s2/favicons?domain=zestream.org&sz=128",
+    "company_description": "An open-source image/audio/video streaming software.\n"
+  },
+  {
+    "company_link": "/company/getgrahak",
+    "company_name": "Get.Grahak.",
+    "company_logo": "https://logo.clearbit.com/getgrahak.co",
+    "company_description": "Get Grahak - Launch Your Store"
+  },
+  {
+    "company_link": "/company/bandiya",
+    "company_name": "BANDIYA GROWTH PARTNERS PVT LTD",
+    "company_logo": "https://logo.clearbit.com/bandiya.com",
+    "company_description": "Licensing patents, done right!"
+  },
+  {
+    "company_link": "/company/dorsiya",
+    "company_name": "Dorsiya",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Dorsiya Database Management is dedicated to revolutionizing the way businesses handle their data."
+  },
+  {
+    "company_link": "/company/grarri",
+    "company_name": "Grarri Pvt Ltd",
+    "company_logo": "https://logo.clearbit.com/grarri.com",
+    "company_description": "Creating Value!"
+  },
+  {
+    "company_link": "/company/myjobnest",
+    "company_name": "Myjobnest",
+    "company_logo": "https://logo.clearbit.com/myjobnest.com",
+    "company_description": "A job nest for all your no-code job tools."
+  },
+  {
+    "company_link": "/company/maruf_uxd",
+    "company_name": "marufuxd",
+    "company_logo": "https://logo.clearbit.com/marufuxd.com",
+    "company_description": "User-centric, investor-approved: Building products that win || Lean UX-focused, human-centric designer."
+  },
+  {
+    "company_link": "/company/coverdash",
+    "company_name": "Coverdash",
+    "company_logo": "https://logo.clearbit.com/coverdash.com",
+    "company_description": "Business insurance in a dash."
+  },
+  {
+    "company_link": "/company/wixdevs",
+    "company_name": "Wix.com",
+    "company_logo": "https://logo.clearbit.com/wix.com",
+    "company_description": "Cloud-based platform offering robust tools and APIs for creating sophisticated web experiences."
+  },
+  {
+    "company_link": "/company/tnews",
+    "company_name": "Topic News",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "PR distribution in Asia made easy"
+  },
+  {
+    "company_link": "/company/canwebe",
+    "company_name": "CanWeBe!",
+    "company_logo": "https://logo.clearbit.com/canwebe.in",
+    "company_description": "A software development organization"
+  },
+  {
+    "company_link": "/company/channx",
+    "company_name": "ChannX Development Services",
+    "company_logo": "https://logo.clearbit.com/chann.tech",
+    "company_description": "A Company for Website  Development and Maintenance Services "
+  },
+  {
+    "company_link": "/company/engaze",
+    "company_name": "Engaze",
+    "company_logo": "https://www.google.com/s2/favicons?domain=engaze.in&sz=128",
+    "company_description": "Social Media App for Professional Growth"
+  },
+  {
+    "company_link": "/company/pickcel",
+    "company_name": "Pickcel Digital Signage",
+    "company_logo": "https://logo.clearbit.com/pickcel.com",
+    "company_description": "Boost engagement & productivity, streamline processes, and make faster communications with Pickcel."
+  },
+  {
+    "company_link": "/company/teksoftlabs",
+    "company_name": "TEKsoft Labs Private Ltd.",
+    "company_logo": "https://logo.clearbit.com/teksoftlabs.com",
+    "company_description": "Professional Technology Solution"
+  },
+  {
+    "company_link": "/company/decrypt0",
+    "company_name": "Decrypt0",
+    "company_logo": "https://www.google.com/s2/favicons?domain=decrypt0.com&sz=128",
+    "company_description": "Empowering Tomorrow's Innovators, Securely."
+  },
+  {
+    "company_link": "/company/wrldai",
+    "company_name": "WRLD Tech Co.",
+    "company_logo": "https://logo.clearbit.com/wrld.tech",
+    "company_description": "SMB Technology Solutions; driving adoption of next-gen technology as a competitive advantage, not just requirement."
+  },
+  {
+    "company_link": "/company/tegro",
+    "company_name": "Tegro",
+    "company_logo": "https://logo.clearbit.com/tegro.com",
+    "company_description": "Tegro is cryptocurrency trading platform that allows users to efficiently trade Tokens & NFTs across blockchain networks"
+  },
+  {
+    "company_link": "/company/uvidstudio",
+    "company_name": "Uvidstudio",
+    "company_logo": "https://logo.clearbit.com/uvidstudio.com",
+    "company_description": "A digital marketing agency empowering nonprofits & local businesses with creative solutions, cybersecurity, & growth."
+  },
+  {
+    "company_link": "/company/unext",
+    "company_name": "UNext",
+    "company_logo": "https://logo.clearbit.com/u-next.com",
+    "company_description": "UNext partners with top educational institutes to offer online courses in higher education and workforce development."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Temp Mail",
+    "company_logo": "https://logo.clearbit.com/tempmailo.org",
+    "company_description": "Temp mail for all"
+  },
+  {
+    "company_link": "/company/pinmyapp",
+    "company_name": "PinMy app",
+    "company_logo": "https://logo.clearbit.com/pinmy.co",
+    "company_description": "Enhance the way you discuss feedback on various visual content such as photos, images, screenshots, GIFs, and PDF!"
+  },
+  {
+    "company_link": "/company/enphaseenergy",
+    "company_name": "Enphase Energy",
+    "company_logo": "https://logo.clearbit.com/enphase.com",
+    "company_description": "Enphase is a global energy tech company & the world\u2019s leading supplier of microinverter-based solar and battery systems."
+  },
+  {
+    "company_link": "/company/kuizto",
+    "company_name": "kuizto",
+    "company_logo": "https://logo.clearbit.com/kuizto.co",
+    "company_description": "Scroll through meal ideas like scrolling through Netflix."
+  },
+  {
+    "company_link": "/company/rtxjobs",
+    "company_name": "RTX",
+    "company_logo": "https://logo.clearbit.com/rtx.com",
+    "company_description": "Stable careers in the Defense Industry.  Employee continuing program - up to $25,000/year. "
+  },
+  {
+    "company_link": "/company/compromath",
+    "company_name": "COMPROMATH",
+    "company_logo": "https://logo.clearbit.com/compromath.com",
+    "company_description": "COMPROMATH is a platform to help you kickstart your blogging career and make money."
+  },
+  {
+    "company_link": "/company/epsilon",
+    "company_name": "Epsilon",
+    "company_logo": "https://logo.clearbit.com/epsilon.com",
+    "company_description": "Ad tech, marketing, audience reach."
+  },
+  {
+    "company_link": "/company/devorigin",
+    "company_name": "DevOrigin",
+    "company_logo": "https://www.google.com/s2/favicons?domain=devorigin.info&sz=128",
+    "company_description": "\"DevOrigin\" - The place where developers originate from."
+  },
+  {
+    "company_link": "/company/gaimnetwork",
+    "company_name": "GAIM Network",
+    "company_logo": "https://logo.clearbit.com/gaimnetwork.com",
+    "company_description": "AI for Everyone. Parent company of GAIM.AI - One app for chatbots, image generators, AI characters, and more."
+  },
+  {
+    "company_link": "/company/absys",
+    "company_name": "Absys IT Solutions",
+    "company_logo": "https://logo.clearbit.com/absys.com.mx",
+    "company_description": "Building software."
+  },
+  {
+    "company_link": "/company/devfast",
+    "company_name": "DevFast.co",
+    "company_logo": "https://logo.clearbit.com/devfast.co",
+    "company_description": "Easily hire vetted developers, quickly!"
+  },
+  {
+    "company_link": "/company/boardofdesign",
+    "company_name": "American Board of Design ",
+    "company_logo": "https://logo.clearbit.com/americanboardofdesign.org",
+    "company_description": "Validating the labor force for tech."
+  },
+  {
+    "company_link": "/company/designagency",
+    "company_name": "Procreator",
+    "company_logo": "https://logo.clearbit.com/procreator.design",
+    "company_description": "UI UX Design Agency "
+  },
+  {
+    "company_link": "/company/techboosters",
+    "company_name": "Tech Boosters",
+    "company_logo": "https://logo.clearbit.com/techboostersweb.com",
+    "company_description": "We dream, architect, design, and develop human-first digital experiences."
+  },
+  {
+    "company_link": "/company/xiscamairata",
+    "company_name": "xiscamairata.com",
+    "company_logo": "https://logo.clearbit.com/xiscamairata.com",
+    "company_description": "The design practice of Xisca Mairata (the person)"
+  },
+  {
+    "company_link": "/company/amply",
+    "company_name": "amply",
+    "company_logo": "https://logo.clearbit.com/amply.boutique",
+    "company_description": "Product design partner on subscription"
+  },
+  {
+    "company_link": "/company/learnaws",
+    "company_name": "LearnAWS",
+    "company_logo": "https://logo.clearbit.com/learnaws.io",
+    "company_description": "Learn AWS - Be an AWS Solutions Architect in 45 days"
+  },
+  {
+    "company_link": "/company/isdecisions",
+    "company_name": "IS Decisions",
+    "company_logo": "https://logo.clearbit.com/isdecisions.com",
+    "company_description": "MFA & Access Security for Active Directory."
+  },
+  {
+    "company_link": "/company/cyberdiveco",
+    "company_name": "Cyber Dive",
+    "company_logo": "https://logo.clearbit.com/cyberdive.co",
+    "company_description": "Cyber Dive created the first fully-functional custom smartphone for kids with unlimited monitoring access for parents."
+  },
+  {
+    "company_link": "/company/servus",
+    "company_name": "Servus Media Group",
+    "company_logo": "https://logo.clearbit.com/smgltd.uk",
+    "company_description": "From warzones to boardrooms, Servus is your ally in the art of influence and communications."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Hireplus",
+    "company_logo": "",
+    "company_description": "Think Beyond Hiring"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "The Best CAR Blog Ever",
+    "company_logo": "",
+    "company_description": "Read about everything related to cars, sometimes bikes too, but mostly cars!"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Carte Blanche",
+    "company_logo": "",
+    "company_description": "We craft products that leave an impact."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Uptut",
+    "company_logo": "",
+    "company_description": "Learn better, perform better and deliver better with tech solutions from Uptut \ud83d\ude80"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Droomex",
+    "company_logo": "",
+    "company_description": "Experts in moving & storage services. From homes to offices and vehicles, we've got you covered."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "WebDepend Testing",
+    "company_logo": "",
+    "company_description": "A website and mobile app testing company, offering comprehensive QA & testing services across web, mobile and SaaS."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "KSP Digital Solutions",
+    "company_logo": "",
+    "company_description": "KSP Digital Solutions is a dynamic and innovative technology company that specializes in delivering customized solutions"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Dust Labs",
+    "company_logo": "",
+    "company_description": "Building the #1 community on the internet. "
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Techtrust",
+    "company_logo": "",
+    "company_description": "Techtrust matches experienced tech talent with their dream roles in FinTech."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Vertocity",
+    "company_logo": "",
+    "company_description": "Creating future for everyone!"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "jsonsingh.com",
+    "company_logo": "",
+    "company_description": "Manage spatio-temporal data at scale "
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "BTNG",
+    "company_logo": "",
+    "company_description": "World-Class UX Design whenever you need it"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Clergo",
+    "company_logo": "",
+    "company_description": "We build software that drives sales and retention"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "LambdaTest",
+    "company_logo": "",
+    "company_description": " LambdaTest is a leading AI-augmented unified test orchestration and execution cloud that enables developers and testers"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "The Anantkaal",
+    "company_logo": "",
+    "company_description": "A technology solutions provider that specializes in software development, embedded system design, & automation services"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "canata.dev",
+    "company_logo": "",
+    "company_description": "Bu\u011fra Canata | Freelance Translator | Fullstack Developer"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "digitomize",
+    "company_logo": "",
+    "company_description": "One place for all your\ncoding platforms needs"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "alex.mn",
+    "company_logo": "",
+    "company_description": "A design company. Balancing functionality and visual impact."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Digital Dot Web",
+    "company_logo": "",
+    "company_description": "Your thoughts into a code-written Application."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Afinity",
+    "company_logo": "",
+    "company_description": "Afinity is changing the world"
+  },
+  {
+    "company_link": "/company/nerverift",
+    "company_name": "NerveRift",
+    "company_logo": "https://logo.clearbit.com/nerverift.com",
+    "company_description": "Innovating technology to connect mind to machine"
+  },
+  {
+    "company_link": "/company/aviznetworks",
+    "company_name": "Aviz Networks",
+    "company_logo": "https://logo.clearbit.com/aviznetworks.com",
+    "company_description": "Aviz Networks: Pioneering Networking 3.0 with End-to-End SONiC Stack - Open, Cloud, and AI-First Networks"
+  },
+  {
+    "company_link": "/company/angelhack",
+    "company_name": "AngelHack",
+    "company_logo": "https://logo.clearbit.com/angelhack.com",
+    "company_description": "The World\u2019s Leader in Hackathons and Developer Relations"
+  },
+  {
+    "company_link": "/company/tailoredlayouts",
+    "company_name": "Tailored Layouts",
+    "company_logo": "https://logo.clearbit.com/tailoredlayouts.com",
+    "company_description": "Custom tailored design"
+  },
+  {
+    "company_link": "/company/wokay",
+    "company_name": "Wokay",
+    "company_logo": "https://logo.clearbit.com/wokay.com",
+    "company_description": "A unified communication and collaboration tool for SMBs."
+  },
+  {
+    "company_link": "/company/networkbrainiac",
+    "company_name": "Network Brainiacs",
+    "company_logo": "https://logo.clearbit.com/networkbrainiacs.com",
+    "company_description": "Making lives more convenient!"
+  },
+  {
+    "company_link": "/company/booking",
+    "company_name": "Booking.com",
+    "company_logo": "https://logo.clearbit.com/booking.com",
+    "company_description": "We make it easy for everyone to experience the world"
+  },
+  {
+    "company_link": "/company/ambitio",
+    "company_name": "Ambitio",
+    "company_logo": "https://logo.clearbit.com/ambitio.in",
+    "company_description": "An AI Copilot for Study Abroad"
+  },
+  {
+    "company_link": "/company/xflow",
+    "company_name": "XFlow Studio",
+    "company_logo": "https://logo.clearbit.com/xflow.studio",
+    "company_description": "Empowering Small & Medium Businesses with Next-Generation Website & Design Solutions"
+  },
+  {
+    "company_link": "/company/equitybee",
+    "company_name": "EquityBee",
+    "company_logo": "https://logo.clearbit.com/equitybee.com",
+    "company_description": "Equitybee provides you the funding you need to exercise your employee stock options and liquidate your equity."
+  },
+  {
+    "company_link": "/company/crackeddevs",
+    "company_name": "crackeddevs.com",
+    "company_logo": "https://logo.clearbit.com/crackeddevs.com",
+    "company_description": "Make money coding on the internet, remotely\n"
+  },
+  {
+    "company_link": "/company/go2workapp",
+    "company_name": "go2work",
+    "company_logo": "https://logo.clearbit.com/go2work.com",
+    "company_description": "go2work is a revolutionary platform that connects job seekers with companies in need of workers."
+  },
+  {
+    "company_link": "/company/fabhotels",
+    "company_name": "FabHotels",
+    "company_logo": "https://logo.clearbit.com/fabhotels.com",
+    "company_description": "Best Reviewed Hotel Chain in India"
+  },
+  {
+    "company_link": "/company/livestorm",
+    "company_name": "Livestorm",
+    "company_logo": "https://logo.clearbit.com/livestorm.co",
+    "company_description": "The leading European video conferencing alternative."
+  },
+  {
+    "company_link": "/company/rivi_co",
+    "company_name": "Rivi",
+    "company_logo": "https://logo.clearbit.com/rivi.co",
+    "company_description": "Building the most intelligent travel product in the world."
+  },
+  {
+    "company_link": "/company/geometrik",
+    "company_name": "Geometrik",
+    "company_logo": "https://logo.clearbit.com/begeometrik.com",
+    "company_description": "Your one-stop shop for going out"
+  },
+  {
+    "company_link": "/company/alaysho",
+    "company_name": "Alaysho LLC",
+    "company_logo": "https://logo.clearbit.com/alaysho.com",
+    "company_description": "Fractional CPO and CTO for early-stage startups"
+  },
+  {
+    "company_link": "/company/mozestudio",
+    "company_name": "Moze",
+    "company_logo": "https://logo.clearbit.com/mozestudio.com",
+    "company_description": "We make web and mobile software. We help entrepreneurs and forward-looking companies to transform their ideas into succe"
+  },
+  {
+    "company_link": "/company/digifarm",
+    "company_name": "DigiFarm",
+    "company_logo": "https://logo.clearbit.com/digifarm.io",
+    "company_description": "Real-time Data for Digital Farming Solutions"
+  },
+  {
+    "company_link": "/company/zillowgroup",
+    "company_name": "Zillow Group",
+    "company_logo": "https://logo.clearbit.com/zillowgroup.com",
+    "company_description": "Zillow\u2019s mission is to help more people get home \u2014 with speed, certainty and ease. "
+  },
+  {
+    "company_link": "/company/outshine",
+    "company_name": "OUTSHINE\u00ae",
+    "company_logo": "https://logo.clearbit.com/outshine.tech",
+    "company_description": "Outshine\u00ae is about Marketing and Sales."
+  },
+  {
+    "company_link": "/company/sixhuman",
+    "company_name": "sixhuman",
+    "company_logo": "https://www.google.com/s2/favicons?domain=sixhuman.com&sz=128",
+    "company_description": "Building the next generation of computers"
+  },
+  {
+    "company_link": "/company/kirirom_digital",
+    "company_name": "Kirirom Digital",
+    "company_logo": "https://logo.clearbit.com/kirirom-digital.com",
+    "company_description": "Kirirom Digital Inc. provides cutting edge technologies that enhance clients\u2019 business with trust and reliability. With "
+  },
+  {
+    "company_link": "/company/aunova",
+    "company_name": "Aunova",
+    "company_logo": "https://logo.clearbit.com/aunova.net",
+    "company_description": "Unlock the future of your business with Aunova's blockchain solutions - Innovate today for a smarter tomorrow."
+  },
+  {
+    "company_link": "/company/fibilabs",
+    "company_name": "Fibi Labs Technologies",
+    "company_logo": "https://logo.clearbit.com/fibilabs.tech",
+    "company_description": "We Improve Product Quality by Catching and Preventing bugs before it hits to the Production. "
+  },
+  {
+    "company_link": "/company/cloodo",
+    "company_name": "Cloodo",
+    "company_logo": "https://logo.clearbit.com/cloodo.com",
+    "company_description": "\u201cCloodo WorkSpace: Revolutionizing the way you work, one workspace at a time"
+  },
+  {
+    "company_link": "/company/antstack",
+    "company_name": "AntStack",
+    "company_logo": "https://logo.clearbit.com/antstack.com",
+    "company_description": "#ServerlessLimitless - Leading The Serverless Revolution"
+  },
+  {
+    "company_link": "/company/latapals",
+    "company_name": "Latapals",
+    "company_logo": "https://www.google.com/s2/favicons?domain=lata.dev&sz=128",
+    "company_description": "Internet friends making a friendlier internet."
+  },
+  {
+    "company_link": "/company/panglobal",
+    "company_name": "PanGlobal Training Systems",
+    "company_logo": "https://logo.clearbit.com/panglobal.org",
+    "company_description": "The worlds greatest Power Engineering Training provider - your partner in education."
+  },
+  {
+    "company_link": "/company/maisonwork",
+    "company_name": "maison.work",
+    "company_logo": "https://logo.clearbit.com/maison.work",
+    "company_description": "Find, rent and advertise commercial real estate spaces."
+  },
+  {
+    "company_link": "/company/valoapp",
+    "company_name": "Valo",
+    "company_logo": "https://www.google.com/s2/favicons?domain=valo.club&sz=128",
+    "company_description": "Its not enough to be just an investor, You must be rewarded for it."
+  },
+  {
+    "company_link": "/company/talkxo",
+    "company_name": "TalkXO \u2014 The Marketing Automation Agency",
+    "company_logo": "https://logo.clearbit.com/talkxo.com",
+    "company_description": "Your extend team & crew in \ud83e\udded navigating the B2B growth journey"
+  },
+  {
+    "company_link": "/company/bnbtunisie",
+    "company_name": "BnB Tunisie",
+    "company_logo": "https://logo.clearbit.com/bnb.tn",
+    "company_description": "IT Solutions For Real Estate Sector in Tunisia"
+  },
+  {
+    "company_link": "/company/designwings",
+    "company_name": "Designwings UX/UI School",
+    "company_logo": "https://logo.clearbit.com/designwings.in",
+    "company_description": "UX bootcamp & paid internships with award winning design studios"
+  },
+  {
+    "company_link": "/company/codedamn",
+    "company_name": "codedamn",
+    "company_logo": "https://logo.clearbit.com/codedamn.com",
+    "company_description": "An all-in one learning platform to help you master programming"
+  },
+  {
+    "company_link": "/company/sugary",
+    "company_name": "Sugary",
+    "company_logo": "https://logo.clearbit.com/sugary.me",
+    "company_description": "Psychology Based Gifting"
+  },
+  {
+    "company_link": "/company/creativechaos",
+    "company_name": "Creative Chaos",
+    "company_logo": "https://logo.clearbit.com/creativechaos.co",
+    "company_description": "Your Innovation Delivery Partners"
+  },
+  {
+    "company_link": "/company/raftly",
+    "company_name": "raftly",
+    "company_logo": "https://www.google.com/s2/favicons?domain=raftly.io&sz=128",
+    "company_description": "An ocean of digital services now within reach"
+  },
+  {
+    "company_link": "/company/tle_eliminators",
+    "company_name": "TLE Eliminators",
+    "company_logo": "https://logo.clearbit.com/tle-eliminators.com",
+    "company_description": "Competitive Coding Simplified with Live Classes, Curated Coding Problems, Doubt Support, Progress Tracking & Mentorship"
+  },
+  {
+    "company_link": "/company/rubymediagroup",
+    "company_name": "Ruby Media Group",
+    "company_logo": "https://logo.clearbit.com/rubymediagroup.com",
+    "company_description": "Award-Winning Public Relations firm. Want increased media exposure and national publicity? "
+  },
+  {
+    "company_link": "/company/applyers",
+    "company_name": "Applyers",
+    "company_logo": "https://www.google.com/s2/favicons?domain=applyers.in&sz=128",
+    "company_description": "The Smart Choice for Internships, Applyers platform matches you with tailored Student Internships based on your profile"
+  },
+  {
+    "company_link": "/company/teamsosindia",
+    "company_name": "Team SOS India",
+    "company_logo": "https://logo.clearbit.com/teamsosindia.in",
+    "company_description": "We are One & We are Many"
+  },
+  {
+    "company_link": "/company/coditas",
+    "company_name": "Coditas",
+    "company_logo": "https://logo.clearbit.com/coditas.com",
+    "company_description": "We are a quality-focused digital engineering company that enables enterprises to build and run cutting-edge business mod"
+  },
+  {
+    "company_link": "/company/roopairs",
+    "company_name": "Roopairs Technologies",
+    "company_logo": "https://logo.clearbit.com/roopairs.com",
+    "company_description": "Modern software for Commercial Food Equipment Service Companies"
+  },
+  {
+    "company_link": "/company/clevertap",
+    "company_name": "CleverTap",
+    "company_logo": "https://logo.clearbit.com/clevertap.com",
+    "company_description": "Create personalized experiences to retain your most valuable customers, forever, with CleverTap\u2019s All-In-One engagement "
+  },
+  {
+    "company_link": "/company/giveagency",
+    "company_name": "GIVE",
+    "company_logo": "https://logo.clearbit.com/give.ee",
+    "company_description": "A boutique digital agency for clients who believe in good design"
+  },
+  {
+    "company_link": "/company/aurva",
+    "company_name": "Aurva",
+    "company_logo": "https://logo.clearbit.com/aurva.io",
+    "company_description": "Enabling secure data access at scale"
+  },
+  {
+    "company_link": "/company/gdscpescoe",
+    "company_name": "Google Developer Students Club - PESCOE",
+    "company_logo": "https://www.google.com/s2/favicons?domain=gdscpescoe.tech&sz=128",
+    "company_description": "GDSC PES College of Engineering is a chapter of the GDSC community that aims to provide students with the resources and "
+  },
+  {
+    "company_link": "/company/stefanmajirosco",
+    "company_name": "Stefan Majiros",
+    "company_logo": "https://logo.clearbit.com/stefan-majiros.com",
+    "company_description": "AWS Serverless for mobile startups built with React Native."
+  },
+  {
+    "company_link": "/company/doyarcomaboutus",
+    "company_name": "Doyar bank",
+    "company_logo": "https://www.google.com/s2/favicons?domain=doyarbank.com&sz=128",
+    "company_description": "Doyar bank is built on the principles of interest-free banking focused on fostering an environment of trust and in"
+  },
+  {
+    "company_link": "/company/newleafnetworks",
+    "company_name": "Newleaf Networks",
+    "company_logo": "https://logo.clearbit.com/newleafnetworks.com",
+    "company_description": "Create and grow your website fast, with us"
+  },
+  {
+    "company_link": "/company/momoney_in",
+    "company_name": "MoMoney",
+    "company_logo": "https://logo.clearbit.com/momoney.in",
+    "company_description": "Because who doesn\u2019t want more money?"
+  },
+  {
+    "company_link": "/company/typof",
+    "company_name": "Typof",
+    "company_logo": "https://logo.clearbit.com/typof.com",
+    "company_description": "Typof is the commerce platform, built for SEO and Performance reducing dependency on 3rd party tools."
+  },
+  {
+    "company_link": "/company/kalvium",
+    "company_name": "Kalvium",
+    "company_logo": "https://logo.clearbit.com/kalvium.com",
+    "company_description": "The Best Undergraduate Program In Computer Science Engineering"
+  },
+  {
+    "company_link": "/company/jaeves_ai",
+    "company_name": "jaevesAI",
+    "company_logo": "https://www.google.com/s2/favicons?domain=jaeves.com&sz=128",
+    "company_description": "Jaeves: AI-powered Content & Marketing Copilot: content, image generation, Speech-to-Text, Text-to-Speech, coding"
+  },
+  {
+    "company_link": "/company/glasskube",
+    "company_name": "Glasskube",
+    "company_logo": "https://logo.clearbit.com/glasskube.eu",
+    "company_description": "Open Source Kubernetes Add-on Management "
+  },
+  {
+    "company_link": "/company/formingweb",
+    "company_name": "Forming Web",
+    "company_logo": "https://logo.clearbit.com/formingweb.com",
+    "company_description": "YOU IMAGINE IT. WE SHAPE IT."
+  },
+  {
+    "company_link": "/company/auditshq",
+    "company_name": "AuditsHQ",
+    "company_logo": "https://www.google.com/s2/favicons?domain=auditshq.com&sz=128",
+    "company_description": "Get expert feedback for your website or software application. Team of SaaS experts & Conversion optimization specialists"
+  },
+  {
+    "company_link": "/company/abhiman",
+    "company_name": "Abhiman Innovations Private Limited",
+    "company_logo": "https://logo.clearbit.com/abhiman.ai",
+    "company_description": "We're a forward-thinking startup dedicated to redefining products and industries through innovation and technology."
+  },
+  {
+    "company_link": "/company/hybrowlabs",
+    "company_name": "Hybrowlabs Technologies",
+    "company_logo": "https://logo.clearbit.com/hybrowlabs.com",
+    "company_description": "Passionately Crafted. Delivered In Time."
+  },
+  {
+    "company_link": "/company/surabhideepech",
+    "company_name": "Surabhi.io",
+    "company_logo": "https://logo.clearbit.com/surabhi.io",
+    "company_description": "Grasp the Buzz!"
+  },
+  {
+    "company_link": "/company/signit",
+    "company_name": "Signit",
+    "company_logo": "https://logo.clearbit.com/signit.sa",
+    "company_description": "\u0627\u0641\u0636\u0644 \u0645\u0646\u0635\u0629 \u062a\u0648\u0642\u064a\u0639 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a  \u0633\u0639\u0648\u062f\u064a\u0629 \u062f\u0627\u0639\u0645\u0629 \u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+  },
+  {
+    "company_link": "/company/growthx",
+    "company_name": "GrowthX",
+    "company_logo": "https://logo.clearbit.com/growthx.club",
+    "company_description": "Structured learning, curated community & orbit changing outcomes \u2013 in one membership."
+  },
+  {
+    "company_link": "/company/eventhq",
+    "company_name": "EventHQ",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Event operations platform for streamlined event management and intelligence."
+  },
+  {
+    "company_link": "/company/ionixxtech",
+    "company_name": "Ionixx Technologies",
+    "company_logo": "https://logo.clearbit.com/ionixxtech.com",
+    "company_description": "We are committed to helping you build meaningful and desirable products through our design and development process."
+  },
+  {
+    "company_link": "/company/engage",
+    "company_name": "Engage",
+    "company_logo": "https://logo.clearbit.com/engage.so",
+    "company_description": "All-in-one Customer Engagement and Automation Tool for SaaS"
+  },
+  {
+    "company_link": "/company/fastah",
+    "company_name": "Fastah",
+    "company_logo": "https://logo.clearbit.com/getfastah.com",
+    "company_description": "Fastah APIs help developers build location-aware apps, services, and security. "
+  },
+  {
+    "company_link": "/company/launchfast",
+    "company_name": "LaunchFast",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Launch your apps  in hours with these Astro, Next.js and SvelteKit boilerplates."
+  },
+  {
+    "company_link": "/company/batinstudio",
+    "company_name": "Batin Studio",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "We design Unique"
+  },
+  {
+    "company_link": "/company/westerndeal",
+    "company_name": "WesternDeal Web Solution",
+    "company_logo": "https://logo.clearbit.com/westerndeal.com",
+    "company_description": "Leading WordPress Development Agency\nYour go-to WordPress Development Company for mission-critical projects"
+  },
+  {
+    "company_link": "/company/zipyai",
+    "company_name": "Zipy",
+    "company_logo": "https://logo.clearbit.com/zipy.ai",
+    "company_description": "Fix what matters! Traditional tools might throw a list of bugs at you, but Zipy tells you which ones matter through real"
+  },
+  {
+    "company_link": "/company/dronetech",
+    "company_name": "Drone Tech Aerospace",
+    "company_logo": "https://logo.clearbit.com/dronetechaerospace.co.uk",
+    "company_description": "Professional Drone Services Above & Beyond Others..."
+  },
+  {
+    "company_link": "/company/viralpep",
+    "company_name": "Viralpep",
+    "company_logo": "https://logo.clearbit.com/viralpep.com",
+    "company_description": "Viralpep.com: Amplify Your Social Impact."
+  },
+  {
+    "company_link": "/company/100xengineers",
+    "company_name": "100xEngineers",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "The only software engineering cohort that teaches you to 10x your productivity using AI-accelerated programming."
+  },
+  {
+    "company_link": "/company/himalayantrek",
+    "company_name": "Himalayan Trekker",
+    "company_logo": "https://logo.clearbit.com/himalayantrekker.com",
+    "company_description": "India's most secure and safe Eco Trek community "
+  },
+  {
+    "company_link": "/company/molecules4peace",
+    "company_name": "Molecules for Peace",
+    "company_logo": "https://logo.clearbit.com/moleculesforpeace.com",
+    "company_description": "Your Mission on Auto-Pilot."
+  },
+  {
+    "company_link": "/company/ncctelecom",
+    "company_name": "NCC Telecom Pvt. Ltd.",
+    "company_logo": "https://logo.clearbit.com/ncc.co.in",
+    "company_description": "We are a leading Indian smart home technology company with 8000+ \ud83c\udfe1 proud consumers.\n\n#digitaldreams #astron"
+  },
+  {
+    "company_link": "/company/thundersquared",
+    "company_name": "thundersquared",
+    "company_logo": "https://logo.clearbit.com/thundersquared.com",
+    "company_description": "Make things, better."
+  },
+  {
+    "company_link": "/company/strongboxit",
+    "company_name": "StrongBox IT",
+    "company_logo": "https://logo.clearbit.com/strongboxit.com",
+    "company_description": "Strongbox IT collaborates with IT companies by providing complete #Security solutions to secure their web apps."
+  },
+  {
+    "company_link": "/company/teamcodesign",
+    "company_name": "Team Codesign",
+    "company_logo": "https://logo.clearbit.com/teamcodesign.com",
+    "company_description": "Where collaboration breeds exceptional design."
+  },
+  {
+    "company_link": "/company/apnawriter",
+    "company_name": "Apna Writer",
+    "company_logo": "https://logo.clearbit.com/apnawriter.com",
+    "company_description": "A Fully-managed content creation company"
+  },
+  {
+    "company_link": "/company/linkdot",
+    "company_name": "LinkDOT",
+    "company_logo": "https://logo.clearbit.com/linkdot.xyz",
+    "company_description": "\"Empowering cross-chain talent showcase for interprotocol benefits \u2013 LinkDOT.\""
+  },
+  {
+    "company_link": "/company/codemonkhq",
+    "company_name": "Codemonk",
+    "company_logo": "https://www.google.com/s2/favicons?domain=codemonk.in&sz=128",
+    "company_description": "Codemonk helps you to navigate the technical nuances by building amazing software solutions."
+  },
+  {
+    "company_link": "/company/pagzi",
+    "company_name": "Pagzi Tech",
+    "company_logo": "https://logo.clearbit.com/pagzi.com",
+    "company_description": "Pagzi Tech Inc is a team of engineers specialized in Blockchain and Web3 applications."
+  },
+  {
+    "company_link": "/company/4080studio",
+    "company_name": "4080 Studio",
+    "company_logo": "https://www.google.com/s2/favicons?domain=4080studio.com&sz=128",
+    "company_description": "Product design & no-code development studio"
+  },
+  {
+    "company_link": "/company/newleapnestor",
+    "company_name": "NewleapNestor",
+    "company_logo": "https://logo.clearbit.com/newleapnestor.com",
+    "company_description": "We solve talent questions for the growing companies"
+  },
+  {
+    "company_link": "/company/chronicle",
+    "company_name": "Chronicle",
+    "company_logo": "https://logo.clearbit.com/chroniclehq.com",
+    "company_description": "Impactful Stories, Made effortlessly. "
+  },
+  {
+    "company_link": "/company/customerio",
+    "company_name": "Customer.io",
+    "company_logo": "https://logo.clearbit.com/customer.io",
+    "company_description": "Customer.io is an automated messaging platform for tech-savvy marketers."
+  },
+  {
+    "company_link": "/company/dzstudios",
+    "company_name": "Dezine Zync Studios",
+    "company_logo": "https://logo.clearbit.com/dezinezync.com",
+    "company_description": "Efficient Design & Performant Code"
+  },
+  {
+    "company_link": "/company/mindinc",
+    "company_name": "Mind",
+    "company_logo": "https://logo.clearbit.com/mindinc.in",
+    "company_description": "Create. Collaborate. Commune."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "boxobit.com",
+    "company_logo": "https://logo.clearbit.com/boxobit.com",
+    "company_description": "Web development and design services company. "
+  },
+  {
+    "company_link": "/company/emergeflow",
+    "company_name": "EmergeFlow Technologies",
+    "company_logo": "https://logo.clearbit.com/emergeflow.com",
+    "company_description": "EmergeFlow Technologies provides end to end Robotic Process Automation (RPA) implementation solutions."
+  },
+  {
+    "company_link": "/company/cosmicostudios",
+    "company_name": "Cosmico Studios",
+    "company_logo": "https://logo.clearbit.com/cosmicostudios.com",
+    "company_description": "Cosmico Studios is a web design and mobile app development agency based in Miami, Florida."
+  },
+  {
+    "company_link": "/company/apollonlab",
+    "company_name": "Apollonlab - your digital solutions partner",
+    "company_logo": "https://logo.clearbit.com/apollonlab.com",
+    "company_description": "\ud83c\udfaf Boostez votre pr\u00e9sence en ligne avec des solutions de design captivantes et orient\u00e9es utilisateur. Chez ApollonLab"
+  },
+  {
+    "company_link": "/company/indiassetzinfra",
+    "company_name": "Indiassetz",
+    "company_logo": "https://logo.clearbit.com/indiassetz.com",
+    "company_description": "Your Real Estate needs made simple, professional & research-driven."
+  },
+  {
+    "company_link": "/company/cars24",
+    "company_name": "CARS24",
+    "company_logo": "https://logo.clearbit.com/cars24.com",
+    "company_description": "We believe technology can transform the way customers buy/sell automobiles, making it a joyous experience."
+  },
+  {
+    "company_link": "/company/speedvitals",
+    "company_name": "SpeedVitals",
+    "company_logo": "https://logo.clearbit.com/speedvitals.com",
+    "company_description": "SpeedVitals measures Web Performance & helps make your Website Lightning Fast\n"
+  },
+  {
+    "company_link": "/company/bikelist",
+    "company_name": "BikeList",
+    "company_logo": "https://logo.clearbit.com/bikelist.com",
+    "company_description": "A marketplace for bikes and e-bikes. We make buying and selling used bikes fast, fun, and safe. "
+  },
+  {
+    "company_link": "/company/tramline",
+    "company_name": "Tramline",
+    "company_logo": "https://logo.clearbit.com/tramline.app",
+    "company_description": "release engineering for mobile apps"
+  },
+  {
+    "company_link": "/company/olvyhq",
+    "company_name": "Olvy",
+    "company_logo": "https://logo.clearbit.com/olvy.co",
+    "company_description": "The comms center for your product team - stay on top of user feedback, releases, and close the loop 1:1 with your users."
+  },
+  {
+    "company_link": "/company/nagarro",
+    "company_name": "Nagarro",
+    "company_logo": "https://logo.clearbit.com/nagarro.com",
+    "company_description": "Nagarro (Frankfurt: NA9) is a leader in digital product engineering and drives technology-led business breakthroughs."
+  },
+  {
+    "company_link": "/company/geoidentity",
+    "company_name": "GeoIdentity",
+    "company_logo": "https://logo.clearbit.com/geoidentity.com",
+    "company_description": "Simplify Analyze Automate"
+  },
+  {
+    "company_link": "/company/conectmeco",
+    "company_name": "ConectMe.co \ud83c\uddec\ud83c\udde7",
+    "company_logo": "https://www.google.com/s2/favicons?domain=conectme.co&sz=128",
+    "company_description": "On our platform, you can offer your products and services and find the best professionals in England."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Gigaweb",
+    "company_logo": "https://logo.clearbit.com/gigaweb.in",
+    "company_description": "Creative Web Design that Elevates Your Online Brand"
+  },
+  {
+    "company_link": "/company/browsercat",
+    "company_name": "BrowserCat",
+    "company_logo": "https://logo.clearbit.com/browsercat.com",
+    "company_description": "The purr-fect headless browser automation api."
+  },
+  {
+    "company_link": "/company/designxstream",
+    "company_name": "Design Xstream",
+    "company_logo": "https://logo.clearbit.com/designxstream.com",
+    "company_description": "Design Tips, Tricks & Tutorials related to Sketch, Figma & Adobe Xd."
+  },
+  {
+    "company_link": "/company/atri_",
+    "company_name": "Atri Labs",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "The web framework to build stunning web apps visually"
+  },
+  {
+    "company_link": "/company/serialmarketer",
+    "company_name": "Serial Marketer",
+    "company_logo": "https://logo.clearbit.com/serialmarketer.net",
+    "company_description": "Keeping brands, agencies, and tech companies at the cutting edge of marketing"
+  },
+  {
+    "company_link": "/company/brainfish",
+    "company_name": "Brainfish",
+    "company_logo": "https://logo.clearbit.com/brainfi.sh",
+    "company_description": "Brainfish is the world's first AI-powered help center + content platform that instantly answers any customer question."
+  },
+  {
+    "company_link": "/company/agrostar",
+    "company_name": "AgroStar",
+    "company_logo": "https://logo.clearbit.com/agrostar.in",
+    "company_description": "Leading India's #AgTech revolution and #HelpingFarmersWin."
+  },
+  {
+    "company_link": "/company/rampant",
+    "company_name": "ramp{ant}",
+    "company_logo": "https://logo.clearbit.com/rampant.cloud",
+    "company_description": "Gong.io services partner helping SaaS organizations drive Revenue and Operations."
+  },
+  {
+    "company_link": "/company/called",
+    "company_name": "Called",
+    "company_logo": "https://logo.clearbit.com/called.co",
+    "company_description": "The Church Network."
+  },
+  {
+    "company_link": "/company/lukonet",
+    "company_name": "Lukonet",
+    "company_logo": "https://logo.clearbit.com/lukonet.com",
+    "company_description": "Digital Marketing and Technology"
+  },
+  {
+    "company_link": "/company/axelerant",
+    "company_name": "Axelerant",
+    "company_logo": "https://logo.clearbit.com/axelerant.com",
+    "company_description": "If you\u2019re a digital change maker, we\u2019re your team."
+  },
+  {
+    "company_link": "/company/alveofitq",
+    "company_name": "alveofit",
+    "company_logo": "https://logo.clearbit.com/alveo.fit",
+    "company_description": "alveofit is a state-of-the-art technology company with the vision to make respiratory care accessible and affordable"
+  },
+  {
+    "company_link": "/company/lightmatter",
+    "company_name": "Lightmatter",
+    "company_logo": "https://logo.clearbit.com/lightmatter.com",
+    "company_description": "We build ambitious healthcare technology products."
+  },
+  {
+    "company_link": "/company/getbutterfly",
+    "company_name": "getButterfly",
+    "company_logo": "https://logo.clearbit.com/getbutterfly.com",
+    "company_description": "Professional, high-quality, hand-crafted plugins for WordPress."
+  },
+  {
+    "company_link": "/company/decisionlab",
+    "company_name": "decisionlab",
+    "company_logo": "https://www.google.com/s2/favicons?domain=justdecision.com&sz=128",
+    "company_description": "DecisionLab is the one stop for all the key-value problems: configuration as a service, cache, cms, secrets and more "
+  },
+  {
+    "company_link": "/company/kappalondon",
+    "company_name": "Kappa.London",
+    "company_logo": "https://logo.clearbit.com/kappa.work",
+    "company_description": "A thriving collective of engineers, marketers & designers, united in their mission to craft exceptional digital wonders"
+  },
+  {
+    "company_link": "/company/cretomedia",
+    "company_name": "Creto Media",
+    "company_logo": "https://logo.clearbit.com/cretomedia.com",
+    "company_description": "Creators touch!"
+  },
+  {
+    "company_link": "/company/solguruz",
+    "company_name": "SolGuruz",
+    "company_logo": "https://logo.clearbit.com/solguruz.com",
+    "company_description": "We innovate software solutions with a touch of passion and love!"
+  },
+  {
+    "company_link": "/company/canopy",
+    "company_name": "Canopy",
+    "company_logo": "https://logo.clearbit.com/canopy.cloud",
+    "company_description": "Canopy is a cloud-based financial data aggregation and analytics platform.  "
+  },
+  {
+    "company_link": "/company/botspace",
+    "company_name": "BotSpace",
+    "company_logo": "https://logo.clearbit.com/bot.space",
+    "company_description": "BotSpace provides WhatsApp business solutions. They develop tools for businesses to automate customer support and engage"
+  },
+  {
+    "company_link": "/company/iqcertificate",
+    "company_name": "IQ Certificate",
+    "company_logo": "https://logo.clearbit.com/iqcertificate.org",
+    "company_description": "Professionally developed IQ test, includes memory, logic, number sequencing and left brain right brain results. "
+  },
+  {
+    "company_link": "/company/dappworld",
+    "company_name": "DApp World",
+    "company_logo": "https://logo.clearbit.com/dapp-world.com",
+    "company_description": "A one stop platform for upskilling in Blockchain technology"
+  },
+  {
+    "company_link": "/company/d7networks",
+    "company_name": "Direct7 Networks",
+    "company_logo": "https://logo.clearbit.com/d7networks.com",
+    "company_description": "An online messaging company  that provides services like SMS,Viber Messaging, and Whatsapp for business communication"
+  },
+  {
+    "company_link": "/company/cyfinoid",
+    "company_name": "Cyfinoid Research",
+    "company_logo": "https://logo.clearbit.com/cyfinoid.com",
+    "company_description": "Research Led consulting and training company"
+  },
+  {
+    "company_link": "/company/creatosaurus",
+    "company_name": "Creatosaurus - Stories Matter!",
+    "company_logo": "https://logo.clearbit.com/creatosaurus.io",
+    "company_description": "AI-powered storytelling platform for creators and marketers to tell stories at scale."
+  },
+  {
+    "company_link": "/company/codezeesolution",
+    "company_name": "Codezee Solutions",
+    "company_logo": "https://logo.clearbit.com/codezeesolutions.com",
+    "company_description": "Our Treasure comprises Our People, Vision & Values"
+  },
+  {
+    "company_link": "/company/codetouch",
+    "company_name": "Codetouch Ventures",
+    "company_logo": "https://www.google.com/s2/favicons?domain=codetouch.com&sz=128",
+    "company_description": "For fun & profit."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "CloudyPeople",
+    "company_logo": "https://logo.clearbit.com/cloudypeople.com",
+    "company_description": "Securing your future"
+  },
+  {
+    "company_link": "/company/climactic",
+    "company_name": "Climactic",
+    "company_logo": "https://logo.clearbit.com/climactic.co",
+    "company_description": "Climactic is a premier IT company delivering reliable solutions, innovative products, and engaging media content."
+  },
+  {
+    "company_link": "/company/bigbinary",
+    "company_name": "BigBinary",
+    "company_logo": "https://logo.clearbit.com/bigbinary.com",
+    "company_description": "We excel at building, delivering, and maintaining web applications."
+  },
+  {
+    "company_link": "/company/turinglabs",
+    "company_name": "turingLabs",
+    "company_logo": "https://logo.clearbit.com/turinglabs.in",
+    "company_description": "Design Services for fast-moving tech companies"
+  },
+  {
+    "company_link": "/company/cloudsek",
+    "company_name": "CloudSEK",
+    "company_logo": "https://logo.clearbit.com/cloudsek.com",
+    "company_description": "AI-powered Digital Risk Monitoring platform that provides real-time visibility of cyber threats and actionable Intel."
+  },
+  {
+    "company_link": "/company/diluceo",
+    "company_name": "Diluceo Creative",
+    "company_logo": "https://logo.clearbit.com/diluceo.com",
+    "company_description": "A Full-Service Creative & Marketing Agency specializing in Web Development, Branding & Identity, and Visual Design"
+  },
+  {
+    "company_link": "/company/daolens",
+    "company_name": "DaoLens",
+    "company_logo": "https://logo.clearbit.com/daolens.com",
+    "company_description": "AI-Powered Community Management"
+  },
+  {
+    "company_link": "/company/altudo",
+    "company_name": "Altudo",
+    "company_logo": "https://logo.clearbit.com/altudo.co",
+    "company_description": "We create 1:1 Personalized Experiences to help you drive conversions & revenue uplift"
+  },
+  {
+    "company_link": "/company/gitpod",
+    "company_name": "Gitpod",
+    "company_logo": "https://logo.clearbit.com/gitpod.io",
+    "company_description": "Always ready to code. | Cloud development environments are the fastest,\nand a more secure way, to ship code"
+  },
+  {
+    "company_link": "/company/syncari",
+    "company_name": "Syncari",
+    "company_logo": "https://logo.clearbit.com/syncari.com",
+    "company_description": "The only way to unify and automate customer data at scale. Built with patented sync, for B2B GTM and revenue systems."
+  },
+  {
+    "company_link": "/company/scrollette",
+    "company_name": "Scrollette",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Hand-picked news to make you smarter."
+  },
+  {
+    "company_link": "/company/banyanclod",
+    "company_name": "Banyan Cloud",
+    "company_logo": "https://logo.clearbit.com/banyancloud.io",
+    "company_description": "Cloud Native Application Protection Platform"
+  },
+  {
+    "company_link": "/company/prateeksha",
+    "company_name": "Prateeksha Web Design",
+    "company_logo": "https://logo.clearbit.com/prateeksha.com",
+    "company_description": "Premier Web Design Company in Andheri West, Mumbai\nWith our mastery in cutting-edge technologies like Next.js, Gatsby.js"
+  },
+  {
+    "company_link": "/company/xrlabs",
+    "company_name": "XR Labs",
+    "company_logo": "https://logo.clearbit.com/xrlabs.co",
+    "company_description": "The AR/VR company"
+  },
+  {
+    "company_link": "/company/wishkarma",
+    "company_name": "Wishkarma",
+    "company_logo": "https://logo.clearbit.com/wishkarma.com",
+    "company_description": "Construction Material Marketplace"
+  },
+  {
+    "company_link": "/company/voxtech",
+    "company_name": "Vox Technologies",
+    "company_logo": "https://logo.clearbit.com/vox.delivery",
+    "company_description": "Pre-demand commerce provider where people can get items in seconds at your on-premise"
+  },
+  {
+    "company_link": "/company/vivifivedesigns",
+    "company_name": "Vivifive Designs",
+    "company_logo": "https://logo.clearbit.com/vivifive.com",
+    "company_description": "Digital Thoughts!"
+  },
+  {
+    "company_link": "/company/versionwow",
+    "company_name": "VersionWow",
+    "company_logo": "https://logo.clearbit.com/versionwow.com",
+    "company_description": "An independent creative studio that makes you say Wow!"
+  },
+  {
+    "company_link": "/company/uxconcept",
+    "company_name": "ux-concept GmbH",
+    "company_logo": "https://logo.clearbit.com/ux-concept.de",
+    "company_description": "ux-concept digitizes and optimizes work processes in your company. ux-concept uses conceptual approaches."
+  },
+  {
+    "company_link": "/company/uifry",
+    "company_name": "UI Fry",
+    "company_logo": "https://logo.clearbit.com/uifry.com",
+    "company_description": "Unlimited access to UI UX designs, templates, briefs and jobs!"
+  },
+  {
+    "company_link": "/company/tophq",
+    "company_name": "The Opportunities Portal",
+    "company_logo": "https://logo.clearbit.com/theopportunitiesportal.com",
+    "company_description": "Where talent meets opportunities"
+  },
+  {
+    "company_link": "/company/tnitoffical",
+    "company_name": "TNIT Services",
+    "company_logo": "https://logo.clearbit.com/tnitservices.com",
+    "company_description": "TNIT Services LLP is a leading web and digital solutions firm based in Mumbai,"
+  },
+  {
+    "company_link": "/company/timelessco",
+    "company_name": "Timeless ",
+    "company_logo": "https://logo.clearbit.com/timeless.co",
+    "company_description": "We build brands, products, and apps."
+  },
+  {
+    "company_link": "/company/sstsit",
+    "company_name": "SSTS IT LLP",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Workflow Automation and Management"
+  },
+  {
+    "company_link": "/company/sparcs",
+    "company_name": "Sparcs Studio",
+    "company_logo": "https://logo.clearbit.com/sparcsdigital.com",
+    "company_description": "Driven by Design, A responsive creative professional team of hands-on perfectionists"
+  },
+  {
+    "company_link": "/company/shoptrade",
+    "company_name": "ShopTrade\u00ae",
+    "company_logo": "https://logo.clearbit.com/shoptrade.co",
+    "company_description": "We design, develop and grow e\u2011commerce stores for some of the best in the business.\nA Shopify Plus Certified Partner."
+  },
+  {
+    "company_link": "/company/seracle",
+    "company_name": "Seracle: Web 3.0 Infrastructure",
+    "company_logo": "https://logo.clearbit.com/seracle.com",
+    "company_description": "Seracle is a leading blockchain cloud company. We are offering Blockchain As A Service (BaaS). "
+  },
+  {
+    "company_link": "/company/rufnotemedia",
+    "company_name": "Ruf Note",
+    "company_logo": "https://logo.clearbit.com/rufnote.in",
+    "company_description": "An unconventional creative marketing agency breaking industry norms. We believe in Thinking outside the box (literally)."
+  },
+  {
+    "company_link": "/company/rowyio",
+    "company_name": "Rowy",
+    "company_logo": "https://logo.clearbit.com/rowy.io",
+    "company_description": "Low-code backend. Visual database and functions builder. Start like no-code, code anytime. Scale on GCP & Firebase. "
+  },
+  {
+    "company_link": "/company/rn_elements",
+    "company_name": "React Native Elements",
+    "company_logo": "https://logo.clearbit.com/reactnativeelements.com",
+    "company_description": "Cross Platform React Native UI toolkit"
+  },
+  {
+    "company_link": "/company/refine",
+    "company_name": "Refine",
+    "company_logo": "https://logo.clearbit.com/refine.dev",
+    "company_description": "Build your React-based CRUD applications, without constraints."
+  },
+  {
+    "company_link": "/company/railway",
+    "company_name": "Railway",
+    "company_logo": "https://logo.clearbit.com/railway.app",
+    "company_description": "Railway is building a world where developers ship without friction"
+  },
+  {
+    "company_link": "/company/playpower",
+    "company_name": "Playpower Labs",
+    "company_logo": "https://logo.clearbit.com/playpowerlabs.com",
+    "company_description": "We Create Next-Generation Learning Products"
+  },
+  {
+    "company_link": "/company/oreala",
+    "company_name": "Oreala B.V",
+    "company_logo": "https://logo.clearbit.com/oreala.nl",
+    "company_description": "A path to productivity"
+  },
+  {
+    "company_link": "/company/omnisttechhub",
+    "company_name": "Omnist Techhub Solutions Pvt Ltd",
+    "company_logo": "https://logo.clearbit.com/omnisttechhub.com",
+    "company_description": "We Create Interactive, Innovation & Scalable, Mobile & Web Apps."
+  },
+  {
+    "company_link": "/company/mopid",
+    "company_name": "MOPID",
+    "company_logo": "https://logo.clearbit.com/mopid.me",
+    "company_description": "\u26a1Blitzhire\u26a1"
+  },
+  {
+    "company_link": "/company/moonraft",
+    "company_name": "Moonraft Innovation Labs",
+    "company_logo": "https://logo.clearbit.com/moonraft.com",
+    "company_description": "We bring Design, Art and Technology together to deliver differentiated digital experiences. We're a UST Company"
+  },
+  {
+    "company_link": "/company/livohq",
+    "company_name": "Livo",
+    "company_logo": "https://logo.clearbit.com/livo.digital",
+    "company_description": "Digital Design Studio - Specialized in Branding, UI/UX, digital marketing & Graphic Design"
+  },
+  {
+    "company_link": "/company/lifeplus",
+    "company_name": "LifePlus",
+    "company_logo": "https://logo.clearbit.com/ldiglobal.org",
+    "company_description": "A worldwide learning company where students and their families flourish."
+  },
+  {
+    "company_link": "/company/kapturecx",
+    "company_name": "Kapture CRM",
+    "company_logo": "https://logo.clearbit.com/kapture.cx",
+    "company_description": "Get closer to your customers."
+  },
+  {
+    "company_link": "/company/inextures",
+    "company_name": "Inexture Solutions",
+    "company_logo": "https://logo.clearbit.com/inexture.com",
+    "company_description": "Inexture is the team of tech-geeks and innovative people, who create cutting-edge. "
+  },
+  {
+    "company_link": "/company/huaiyu",
+    "company_name": "Huaiyu Khaw",
+    "company_logo": "https://logo.clearbit.com/huaiyukhaw.com",
+    "company_description": "-"
+  },
+  {
+    "company_link": "/company/followingmyways",
+    "company_name": "MyWays.ai",
+    "company_logo": "https://logo.clearbit.com/myways.ai",
+    "company_description": "Hire, Train and Deploy Junior Techies with Zero Efforts"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "Flutura Decision Sciences & Analytics",
+    "company_logo": "https://logo.clearbit.com/flutura.com",
+    "company_description": "Action! Not just Insights"
+  },
+  {
+    "company_link": "/company/fifthtryhq",
+    "company_name": "FifthTry",
+    "company_logo": "https://logo.clearbit.com/fifthtry.com",
+    "company_description": "fifthtry is a documentation tool that integrates with Github Pull Request: no code goes live without documentation."
+  },
+  {
+    "company_link": "/company/feofex",
+    "company_name": "Feofex",
+    "company_logo": "https://logo.clearbit.com/feofex.com",
+    "company_description": "Dream becomes code"
+  },
+  {
+    "company_link": "/company/femkedesign",
+    "company_name": "Femke",
+    "company_logo": "https://logo.clearbit.com/femke.design",
+    "company_description": "Designer and educator"
+  },
+  {
+    "company_link": "/company/eagleview",
+    "company_name": "EagleView",
+    "company_logo": "https://logo.clearbit.com/eagleview.com",
+    "company_description": "Geospatial software, aerial imagery and analytics, Property insights for smarter planning, building, and efficiency."
+  },
+  {
+    "company_link": "/company/dukaan",
+    "company_name": "Dukaan\u00ae",
+    "company_logo": "https://logo.clearbit.com/mydukaan.io",
+    "company_description": "Launch your e-commerce store in 30 seconds"
+  },
+  {
+    "company_link": "/company/skillvalley",
+    "company_name": "Skillvalley",
+    "company_logo": "https://logo.clearbit.com/skillvalley.in",
+    "company_description": "From idea to launch in just 8 weeks"
+  },
+  {
+    "company_link": "/company/spritegenix",
+    "company_name": "Sprite Genix",
+    "company_logo": "https://logo.clearbit.com/spritegenix.com",
+    "company_description": "An independent digital marketing agency with the mission of developing original and superior solutions."
+  },
+  {
+    "company_link": "/company/disquiet",
+    "company_name": "Disquiet",
+    "company_logo": "https://logo.clearbit.com/disquiet.io",
+    "company_description": "Social network for IT product makers\n\n"
+  },
+  {
+    "company_link": "/company/astrix",
+    "company_name": "Astrix",
+    "company_logo": "https://logo.clearbit.com/astrixverse.com",
+    "company_description": "Buckle up for a cosmic collision of awesomeness where exciting events, education, quirky merchandise, and content."
+  },
+  {
+    "company_link": "/company/digitalaestheti",
+    "company_name": "Digital Aesthetics",
+    "company_logo": "https://logo.clearbit.com/digitalaesthetics.co.uk",
+    "company_description": "Specialist health and beauty marketing agency."
+  },
+  {
+    "company_link": "/company/appflosa",
+    "company_name": "Flosa",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Job application tracking made easy"
+  },
+  {
+    "company_link": "/company/surgicaltech",
+    "company_name": "Surgicaltechie.com",
+    "company_logo": "https://logo.clearbit.com/surgicaltechie.com",
+    "company_description": "Healthcare site for healthcare professionals, patients "
+  },
+  {
+    "company_link": "/company/realiqtest",
+    "company_name": "Real IQ Test",
+    "company_logo": "https://logo.clearbit.com/realiqtest.net",
+    "company_description": "Knowledge Is Power. Why Not Test Your Abilities?"
+  },
+  {
+    "company_link": "/company/jetlearn",
+    "company_name": "JetLearn",
+    "company_logo": "https://logo.clearbit.com/jetlearn.com",
+    "company_description": "Empower your child with tech skills not taught in School.\nGive  a head start with JetLearn."
+  },
+  {
+    "company_link": "/company/unicornplatform",
+    "company_name": "Unicorn Platform",
+    "company_logo": "https://logo.clearbit.com/unicornplatform.com",
+    "company_description": "Simple website builder."
+  },
+  {
+    "company_link": "/company/redhat",
+    "company_name": "Red Hat",
+    "company_logo": "https://logo.clearbit.com/redhat.com",
+    "company_description": "At Red Hat, our commitment to open source extends beyond technology into virtually everything we do. "
+  },
+  {
+    "company_link": "/company/morphinfotech",
+    "company_name": "Morph Infotech",
+    "company_logo": "https://logo.clearbit.com/morphinfotech.com",
+    "company_description": "An IT service firm specialised in Web & App Development and UI/UX Designing"
+  },
+  {
+    "company_link": "/company/securityium",
+    "company_name": "Securityium",
+    "company_logo": "https://logo.clearbit.com/securityium.com",
+    "company_description": "Unmasking Weaknesses, Empowering Security! \ud83d\udee1\ufe0f"
+  },
+  {
+    "company_link": "/company/travespert",
+    "company_name": "Travespert",
+    "company_logo": "https://logo.clearbit.com/travespert.com",
+    "company_description": "Your Travel Expert"
+  },
+  {
+    "company_link": "/company/whiteloop",
+    "company_name": "White Loop Capital",
+    "company_logo": "https://logo.clearbit.com/whiteloop.capital",
+    "company_description": "White Loop Capital is the first private investment firm specialized in crypto-assets in France."
+  },
+  {
+    "company_link": "/company/blocknode",
+    "company_name": "Blocknode Consultings",
+    "company_logo": "https://logo.clearbit.com/blocknode.in",
+    "company_description": "Bringing Blockchain to India's $60 Billion Energy Sector"
+  },
+  {
+    "company_link": "/company/zuddl",
+    "company_name": "Zuddl",
+    "company_logo": "https://logo.clearbit.com/zuddl.com",
+    "company_description": "The Unified Platform for Events and Webinars"
+  },
+  {
+    "company_link": "/company/glosity",
+    "company_name": "Glosity",
+    "company_logo": "https://logo.clearbit.com/glosity.club",
+    "company_description": "What if every early career professional has equal opportunities?"
+  },
+  {
+    "company_link": "/company/xlrijamsedpur",
+    "company_name": "XLRI Jamshedpur",
+    "company_logo": "https://logo.clearbit.com/xlri.ac.in",
+    "company_description": "XLRI - Xavier School of Management"
+  },
+  {
+    "company_link": "/company/listnr",
+    "company_name": "Listnr AI",
+    "company_logo": "https://logo.clearbit.com/listnr.tech",
+    "company_description": "Create realistic audio and video content in seconds. Choose from over 900+ voices in 142 different languages or create y"
+  },
+  {
+    "company_link": "/company/esignwebservice",
+    "company_name": "eSign Web Services Pvt Ltd",
+    "company_logo": "https://logo.clearbit.com/esignwebservices.in",
+    "company_description": "Top Rated SEO & Digital Marketing Company in India\n"
+  },
+  {
+    "company_link": "/company/betterstacks",
+    "company_name": "Stacks",
+    "company_logo": "https://logo.clearbit.com/betterstacks.com",
+    "company_description": "Search engine for bookmarks"
+  },
+  {
+    "company_link": "/company/onespark",
+    "company_name": "OneSpark",
+    "company_logo": "https://logo.clearbit.com/onespark.co.za",
+    "company_description": "Life Insurance Unlike Any Other\n| Incredible Prices. Instant everything. AI smart."
+  },
+  {
+    "company_link": "/company/zerodhaamc",
+    "company_name": "Zerodha Fund House",
+    "company_logo": "https://logo.clearbit.com/zerodhafundhouse.com",
+    "company_description": "Simple & transparent funds for your goals & objectives"
+  },
+  {
+    "company_link": "/company/pixel7studio",
+    "company_name": "Pixel7 Studio",
+    "company_logo": "https://logo.clearbit.com/pixel7studio.in",
+    "company_description": "Digital Marketing for Business"
+  },
+  {
+    "company_link": "/company/pooools",
+    "company_name": "Pooools",
+    "company_logo": "https://logo.clearbit.com/pooools.com",
+    "company_description": "Democratizing job opportunities."
+  },
+  {
+    "company_link": "/company/theailandscape",
+    "company_name": "The AI Landscape",
+    "company_logo": "https://logo.clearbit.com/theailandscape.com",
+    "company_description": "News, Stories, and Exper Insights on AI"
+  },
+  {
+    "company_link": "/company/appsupports",
+    "company_name": "App Support Platform",
+    "company_logo": "https://logo.clearbit.com/appsupports.co",
+    "company_description": "Get unbiased reviews, NLP legitimacy & safety analysis, and user recommendations for business & personal software."
+  },
+  {
+    "company_link": "/company/airtribe",
+    "company_name": "Airtribe",
+    "company_logo": "https://logo.clearbit.com/airtribe.live",
+    "company_description": "Social learning and expert-led programs to start, transition or boost your career."
+  },
+  {
+    "company_link": "/company/baruzotech",
+    "company_name": "BaruzoTech",
+    "company_logo": "https://logo.clearbit.com/baruzotech.com",
+    "company_description": "Your automation experts."
+  },
+  {
+    "company_link": "/company/finbox",
+    "company_name": "FinBox",
+    "company_logo": "https://logo.clearbit.com/finbox.in",
+    "company_description": "Next-gen credit infrastructure and risk intelligence to launch and scale modern credit products."
+  },
+  {
+    "company_link": "/company/evfyme",
+    "company_name": "Evfy",
+    "company_logo": "https://logo.clearbit.com/evfy.in",
+    "company_description": "Electrify your Journey"
+  },
+  {
+    "company_link": "/company/colortools",
+    "company_name": "Color Tools",
+    "company_logo": "https://logo.clearbit.com/hexcolor.co",
+    "company_description": "Have you explored our extensive range of free color tools yet?"
+  },
+  {
+    "company_link": "/company/hackersfriend",
+    "company_name": "HackersFriend",
+    "company_logo": "https://logo.clearbit.com/hackersfriend.com",
+    "company_description": "We talk about algorithms"
+  },
+  {
+    "company_link": "/company/codezeros",
+    "company_name": "Codezeros",
+    "company_logo": "https://logo.clearbit.com/codezeros.com",
+    "company_description": "The only emerging tech company that pioneers complete blockchain based solutions."
+  },
+  {
+    "company_link": "/company/logicalbee",
+    "company_name": "Logical Bee",
+    "company_logo": "https://logo.clearbit.com/logicalbee.in",
+    "company_description": "Test"
+  },
+  {
+    "company_link": "/company/bilwg",
+    "company_name": "Bilwg Services",
+    "company_logo": "https://logo.clearbit.com/bilwg.com",
+    "company_description": "Building Products that SCALE"
+  },
+  {
+    "company_link": "/company/hacksoredev",
+    "company_name": "Hacksore",
+    "company_logo": "https://logo.clearbit.com/boult.me",
+    "company_description": "i am a devloper"
+  },
+  {
+    "company_link": "/company/sukratu",
+    "company_name": "Sukratu",
+    "company_logo": "https://logo.clearbit.com/sukratu.co",
+    "company_description": "Sukratu is a full-service design company that delivers impactful design solutions."
+  },
+  {
+    "company_link": "/company/panchamnfinity",
+    "company_name": "Pancham Infinity",
+    "company_logo": "https://logo.clearbit.com/panchaminfinity.com",
+    "company_description": "\"Empowering Tomorrow's Connectivity: Pancham Infinity - Crafting PI Tree, Innovating Connectivity.\""
+  },
+  {
+    "company_link": "/company/radicalloop",
+    "company_name": "RadicalLoop Technolabs",
+    "company_logo": "https://logo.clearbit.com/radicalloop.com",
+    "company_description": "Committed to building high performant, scalable apps, consistently. "
+  },
+  {
+    "company_link": "/company/enokcollective",
+    "company_name": "Enok Collective",
+    "company_logo": "https://logo.clearbit.com/enok.co",
+    "company_description": "Coool"
+  },
+  {
+    "company_link": "/company/bemyguest",
+    "company_name": "BeMyGuest",
+    "company_logo": "https://www.google.com/s2/favicons?domain=bemyguest.social&sz=128",
+    "company_description": "Discover Activities around you & socialise better | BeMyGuest\n"
+  },
+  {
+    "company_link": "/company/annotate",
+    "company_name": "annotate.site",
+    "company_logo": "https://www.google.com/s2/favicons?domain=annotate.site&sz=128",
+    "company_description": "visual bug reporting tool that allows you to add comment on top of any website"
+  },
+  {
+    "company_link": "/company/booklikeaboss",
+    "company_name": "Book Like A Boss",
+    "company_logo": "https://logo.clearbit.com/booklikeaboss.com",
+    "company_description": "Effortless scheduling meets unparalleled service, empowering you to master your bookings and optimize your business."
+  },
+  {
+    "company_link": "/company/affordmed",
+    "company_name": "Affordmed",
+    "company_logo": "https://logo.clearbit.com/affordmed.com",
+    "company_description": "Affordmed enables affordable access to medical devices, critical care and diagnostics for medical institutions"
+  },
+  {
+    "company_link": "/company/scruzer",
+    "company_name": "SCRUZER",
+    "company_logo": "https://logo.clearbit.com/scruzer.com",
+    "company_description": "All about Money & technology"
+  },
+  {
+    "company_link": "/company/modernloop",
+    "company_name": "ModernLoop",
+    "company_logo": "https://logo.clearbit.com/modernloop.io",
+    "company_description": "Supercharge your recruiting operations team."
+  },
+  {
+    "company_link": "/company/toplyne",
+    "company_name": "Toplyne",
+    "company_logo": "https://logo.clearbit.com/toplyne.io",
+    "company_description": "The behavioral lead scoring platform used by companies like Vercel and Canva to generate sales pipeline."
+  },
+  {
+    "company_link": "/company/replit",
+    "company_name": "Replit",
+    "company_logo": "https://logo.clearbit.com/replit.com",
+    "company_description": "Bringing the next billion software creators online"
+  },
+  {
+    "company_link": "/company/george",
+    "company_name": "Membrain",
+    "company_logo": "https://logo.clearbit.com/membrain.com",
+    "company_description": "Membrain is the Sales Enablement CRM that reinforces the behaviors needed to win consistently in B2B sales."
+  },
+  {
+    "company_link": "/company/appwrite",
+    "company_name": "Appwrite",
+    "company_logo": "https://logo.clearbit.com/appwrite.io",
+    "company_description": "End to end backend server for web, native, and mobile developers \ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb"
+  },
+  {
+    "company_link": "/company/improvmx",
+    "company_name": "ImprovMX",
+    "company_logo": "https://logo.clearbit.com/improvmx.com",
+    "company_description": "Email forwarding for custom domains"
+  },
+  {
+    "company_link": "/company/infeedo",
+    "company_name": "inFeedo",
+    "company_logo": "https://logo.clearbit.com/infeedo.com",
+    "company_description": "Make the voice of 100 million employees heard & valued. \nHelp enterprises build cultures where people \u2764\ufe0f to come to work"
+  },
+  {
+    "company_link": "/company/mubert",
+    "company_name": "Mubert: music powered by AI",
+    "company_logo": "https://logo.clearbit.com/mubert.com",
+    "company_description": "Democratizing Music Creation"
+  },
+  {
+    "company_link": "/company/sushidev",
+    "company_name": "Sushi Dev",
+    "company_logo": "https://logo.clearbit.com/sushi.dev",
+    "company_description": "Your web agency in Vienna/Austria. "
+  },
+  {
+    "company_link": "/company/tradingview",
+    "company_name": "TradingView",
+    "company_logo": "https://logo.clearbit.com/tradingview.com",
+    "company_description": "Look first / Then leap."
+  },
+  {
+    "company_link": "/company/kiwimoney",
+    "company_name": "Kiwimoney",
+    "company_logo": "https://www.google.com/s2/favicons?domain=kiwimoney.in&sz=128",
+    "company_description": "Kiwimoney is a leading fintech company specialized in providing innovative solutions to streamline financial processes. "
+  },
+  {
+    "company_link": "/company/magesstudio",
+    "company_name": "MAGES Studio",
+    "company_logo": "https://logo.clearbit.com/magesstudio.com.sg",
+    "company_description": "MAGES Studio leverages emerging technologies such as AR, VR & Gamification to build meaningful solutions backed by learn"
+  },
+  {
+    "company_link": "/company/scrimba",
+    "company_name": "Scrimba",
+    "company_logo": "https://logo.clearbit.com/scrimba.com",
+    "company_description": "We turn motivated students into hireable developers for 1% of the price of a coding bootcamp."
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "BitNorm",
+    "company_logo": "https://logo.clearbit.com/bitnorm.com",
+    "company_description": "Web3 platform"
+  },
+  {
+    "company_link": "/company/buminthebutter",
+    "company_name": "Bum In The Butter",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Land with your bum in the butter.\n\n360 degree digital and creative agency. "
+  },
+  {
+    "company_link": "/company/amplication",
+    "company_name": "Amplication",
+    "company_logo": "https://logo.clearbit.com/amplication.com",
+    "company_description": "Changing the way backend services are built. Build microservices 20x faster. Reliably. Securely. Consistently."
+  },
+  {
+    "company_link": "/company/favour",
+    "company_name": "RX HEALTH INFO SYSTEMS",
+    "company_logo": "https://logo.clearbit.com/rxhealthinfosystems.com",
+    "company_description": "Rx Health develop healthcare technology solutions that solve the real challenges that health workers have."
+  },
+  {
+    "company_link": "/company/imagekit",
+    "company_name": "ImageKit",
+    "company_logo": "https://logo.clearbit.com/imagekit.io",
+    "company_description": "Media management, optimization, and delivery solution for a seamless visual experience on websites and apps."
+  },
+  {
+    "company_link": "/company/measureit",
+    "company_name": "MeasureBit",
+    "company_logo": "https://logo.clearbit.com/measurebit.com",
+    "company_description": "Analytics & data integration services. Machine learning models for predictive audiences. Big data & mining for insights"
+  },
+  {
+    "company_link": "/company/yiddishekopsoft",
+    "company_name": "Yiddishe Kop",
+    "company_logo": "https://logo.clearbit.com/yiddishe-kop.com",
+    "company_description": "Delightful software solutions"
+  },
+  {
+    "company_link": "/company/alkawitech",
+    "company_name": "Alkawi Tech",
+    "company_logo": "https://d26c7l40gvbbg2.cloudfront.net/media/companyempty.png",
+    "company_description": "Shaping Tomorrow's World Today"
+  },
+  {
+    "company_link": "/company/softacquire",
+    "company_name": "SoftAcquire",
+    "company_logo": "https://logo.clearbit.com/softacquire.com",
+    "company_description": "Buy & sell side-projects"
+  },
+  {
+    "company_link": "/company/flyingweb",
+    "company_name": "Flying Web Solutions",
+    "company_logo": "https://logo.clearbit.com/flyingweb.ie",
+    "company_description": "We are the best digital partner that excels in crafting unique WordPress web designs, SEO and eCommerce. Contact us \ud83e\udee1"
+  },
+  {
+    "company_link": "No link available",
+    "company_name": "997e.studio",
+    "company_logo": "https://www.google.com/s2/favicons?domain=997e.studio&sz=128",
+    "company_description": "building..."
+  },
+  {
+    "company_link": "/company/datazip",
+    "company_name": "Datazip",
+    "company_logo": "https://logo.clearbit.com/datazip.io",
+    "company_description": "Datazip helps you centralize and visualize the data insight you need in under 40-minutes, without the engineering effort"
+  },
+  {
+    "company_link": "/company/pixer",
+    "company_name": "Pixer",
+    "company_logo": "https://logo.clearbit.com/pixer.io",
+    "company_description": "Helping Startup's to Move Onward. Digitally!\n"
+  },
+  {
+    "company_link": "/company/workhack",
+    "company_name": "workhack",
+    "company_logo": "https://logo.clearbit.com/workhack.io",
+    "company_description": "Lead Capture and Qualification Forms powered by Generative AI"
+  },
+  {
+    "company_link": "/company/digifist",
+    "company_name": "DigiFist",
+    "company_logo": "https://logo.clearbit.com/digifist.com",
+    "company_description": "DigiFist is a full-service e-commerce agency that specializes in Shopify, Shopify Plus, and Shopify Themes. "
+  }
+]
